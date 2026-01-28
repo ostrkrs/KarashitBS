@@ -635,6 +635,8 @@
 			var/mob/living/living_target = target
 			living_target.block_projectile_effects()
 		return FALSE
+	if(HAS_TRAIT(target, TRAIT_UNHITTABLE_BY_LASERS) && (armor_flag & LASER))
+		return FALSE
 	if(!ignore_source_check && firer && !direct_target)
 		if(target == firer || (target == firer.loc && ismecha(firer.loc)) || (target in firer.buckled_mobs))
 			return FALSE
@@ -644,7 +646,7 @@
 				return FALSE
 	if(ignored_factions?.len && ismob(target) && !direct_target)
 		var/mob/target_mob = target
-		if(faction_check(target_mob.faction, ignored_factions))
+		if(target_mob.has_faction(ignored_factions))
 			return FALSE
 	if(target.density || cross_failed) //This thing blocks projectiles, hit it regardless of layer/mob stuns/etc.
 		return TRUE

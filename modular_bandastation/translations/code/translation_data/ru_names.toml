@@ -58,6 +58,17 @@ instrumental = "интеркомом исповедания"
 nominative = "интерком исповедания"
 prepositional = "интеркоме исповедания"
 
+["Poly"]
+nominative = "Поли"
+
+["The Ghost of Poly"]
+nominative = "призрак Поли"
+genitive = "призрака Поли"
+dative = "призраку Поли"
+accusative = "призрака Поли"
+instrumental = "призраком Поли"
+prepositional = "призраке Поли"
+
 [Ian]
 accusative = "Иана"
 dative = "Иану"
@@ -1799,12 +1810,12 @@ prepositional = "платном ударнике"
 gender = "male"
 
 ["outback firing pin"]
-nominative = "ударник глубинки"
-genitive = "ударника глубинки"
-dative = "ударнику глубинки"
-accusative = "ударник глубинки"
-instrumental = "ударником глубинки"
-prepositional = "ударнике глубинки"
+nominative = "внестанционный ударник"
+genitive = "внестанционного ударника"
+dative = "внестанционному ударнику"
+accusative = "внестанционного ударника"
+instrumental = "внестанционным ударником"
+prepositional = "внестанционном ударнике"
 gender = "male"
 
 ["laser tag firing pin"]
@@ -2348,6 +2359,51 @@ instrumental = "юбкой охраны"
 prepositional = "юбке охраны"
 gender = "female"
 
+["security alternative skirt"]
+nominative = "юбка охраны"
+genitive = "юбки охраны"
+dative = "юбке охраны"
+accusative = "юбку охраны"
+instrumental = "юбкой охраны"
+prepositional = "юбке охраны"
+gender = "female"
+
+["security formal uniform"]
+nominative = "официальная униформа охраны"
+genitive = "официальной униформы охраны"
+dative = "официальной униформе охраны"
+accusative = "официальную униформу охраны"
+instrumental = "официальной униформой охраны"
+prepositional = "официальной униформе охраны"
+gender = "female"
+
+["security black uniform"]
+nominative = "чёрная униформа охраны"
+genitive = "чёрной униформы охраны"
+dative = "чёрной униформе охраны"
+accusative = "чёрную униформу охраны"
+instrumental = "чёрной униформой охраны"
+prepositional = "чёрной униформе охраны"
+gender = "female"
+
+["security turtleneck"]
+nominative = "водолазка охраны"
+genitive = "водолазки охраны"
+dative = "водолазке охраны"
+accusative = "водолазку охраны"
+instrumental = "водолазкой охраны"
+prepositional = "водолазке охраны"
+gender = "female"
+
+["security alternative black uniform"]
+nominative = "чёрная униформа охраны"
+genitive = "чёрной униформы охраны"
+dative = "чёрной униформе охраны"
+accusative = "чёрную униформу охраны"
+instrumental = "чёрной униформой охраны"
+prepositional = "чёрной униформе охраны"
+gender = "female"
+
 ["grey security jumpsuit"]
 nominative = "серый комбинезон охраны"
 genitive = "серого комбинезона охраны"
@@ -2610,6 +2666,24 @@ instrumental = "перчатками крав мага"
 prepositional = "перчатках крав мага"
 gender = "plural"
 
+["kaza ruk gloves"]
+nominative = "перчатки Каза Рук"
+genitive = "перчаток Каза Рук"
+dative = "перчаткам Каза Рук"
+accusative = "перчатки Каза Рук"
+instrumental = "перчатками Каза Рук"
+prepositional = "перчатках Каза Рук"
+gender = "plural"
+
+["compact combat shotgun"]
+nominative = "компактный боевой дробовик"
+genitive = "компактного боевого дробовика"
+dative = "компактному боевому дробовику"
+accusative = "компактный боевой дробовик"
+instrumental = "компактным боевым дробовиком"
+prepositional = "компактном боевом дробовике"
+gender = "male"
+
 ["warden's jacket"]
 nominative = "куртка смотрителя"
 genitive = "куртки смотрителя"
@@ -2671,6 +2745,24 @@ dative = "юбке-комбинезону смотрителя"
 accusative = "юбку-комбинезон смотрителя"
 instrumental = "юбкой-комбинезоном смотрителя"
 prepositional = "юбке-комбинезоне смотрителя"
+gender = "female"
+
+["warden's alternative blue skirt"]
+nominative = "синяя юбка смотрителя"
+genitive = "синей юбки смотрителя"
+dative = "cиней юбке смотрителя"
+accusative = "синюю юбку смотрителя"
+instrumental = "синей юбкой смотрителя"
+prepositional = "синей юбке смотрителя"
+gender = "female"
+
+["warden's formal blue uniform"]
+nominative = "официальная синяя униформа смотрителя"
+genitive = "официальной синей униформы смотрителя"
+dative = "официальной синей униформе смотрителя"
+accusative = "официальную синюю униформу смотрителя"
+instrumental = "официальной синей униформой смотрителя"
+prepositional = "официальной синей униформе смотрителя"
 gender = "female"
 
 ["security door remote"]
@@ -3711,6 +3803,14 @@ nominative = "Пустынный орёл"
 nominative = "М1911"
 gender = "male"
 
+["gold trimmed m1911"]
+nominative = "M1911 с золотой отделкой"
+gender = "male"
+
+["M45A5 'Rowland'"]
+nominative = "M45A5 \"Роуланд\""
+gender = "male"
+
 ["Nanotrasen Saber SMG"]
 nominative = "ПП Нанотрейзен \"Сабля\""
 gender = "male"
@@ -3746,7 +3846,7 @@ instrumental = "пистолетом \"Оса\""
 prepositional = "пистолете \"Оса\""
 gender = "male"
 
-["Carwo-Cawil Battle Rifle"]
+["Carwo-Cawil battle rifle"]
 nominative = "боевая винтовка \"Карво-Кэвил\""
 genitive = "боевой винтовки \"Карво-Кэвил\""
 dative = "боевой винтовке \"Карво-Кэвил\""
@@ -3755,7 +3855,7 @@ instrumental = "боевой винтовкой \"Карво-Кэвил\""
 prepositional = "боевой винтовке \"Карво-Кэвил\""
 gender = "female"
 
-["Cawil Marksman Rifle"]
+["Cawil marksman rifle"]
 nominative = "марксманская винтовка \"Кэвил\""
 genitive = "марксманской винтовки \"Кэвил\""
 dative = "марксманской винтовке \"Кэвил\""
@@ -3764,7 +3864,7 @@ instrumental = "марксманской винтовкой \"Кэвил\""
 prepositional = "марксманской винтовке \"Кэвил\""
 gender = "female"
 
-["Qarad Light Machinegun"]
+["Qarad light machinegun"]
 nominative = "лёгкий пулемёт \"Кварад\""
 genitive = "лёгкого пулемёта \"Кварад\""
 dative = "лёгкому пулемёту \"Кварад\""
@@ -3773,7 +3873,7 @@ instrumental = "лёгким пулемётом \"Кварад\""
 prepositional = "лёгком пулемёте \"Кварад\""
 gender = "male"
 
-["Daraq Light Machinegun"]
+["Daraq light machinegun"]
 nominative = "лёгкий пулемёт \"Дарак\""
 genitive = "лёгкого пулемёта \"Дарак\""
 dative = "лёгкому пулемёту \"Дарак\""
@@ -4907,6 +5007,15 @@ instrumental = "коробкой патронов (9x25mm НТ бронебой�
 prepositional = "коробке патронов (9x25mm НТ бронебойные)"
 gender = "female"
 
+["pistol magazine (.456 Magnum)"]
+nominative = "магазин для пистолета (.456 Магнум)"
+genitive = "магазина для пистолета (.456 Магнум)"
+dative = "магазину для пистолета (.456 Магнум)"
+accusative = "магазин для пистолета (.456 Магнум)"
+instrumental = "магазином для пистолета (.456 Магнум)"
+prepositional = "магазине для пистолета (.456 Магнум)"
+gender = "male"
+
 # MARK: Service
 ["fish-porter 3000"]
 nominative = "рыбопортал 3000"
@@ -5889,6 +5998,132 @@ dative = "голландскому горячему шоколаду"
 accusative = "голландский горячий шоколад"
 instrumental = "голландским горячим шоколадом"
 prepositional = "голландском горячем шоколаде"
+gender = "male"
+
+["Slimetea"]
+nominative = "Слизнечай"
+genitive = "Слизнечая"
+dative = "Слизнечаю"
+accusative = "Слизнечай"
+instrumental = "Слизнечаем"
+prepositional = "Слизнечае"
+gender = "male"
+
+["Robbusto"]
+nominative = "Роббусто"
+genitive = "Роббусто"
+dative = "Роббусто"
+accusative = "Роббусто"
+instrumental = "Роббусто"
+prepositional = "Роббусто"
+gender = "male"
+
+["Glace"]
+nominative = "Гляссе"
+genitive = "Гляссе"
+dative = "Гляссе"
+accusative = "Гляссе"
+instrumental = "Гляссе"
+prepositional = "Гляссе"
+gender = "neuter"
+
+["Vortex"]
+nominative = "Вортекс-кофе"
+genitive = "Вортекс-кофе"
+dative = "Вортекс-кофе"
+accusative = "Вортекс-кофе"
+instrumental = "Вортекс-кофе"
+prepositional = "Вортекс-кофе"
+gender = "neuter"
+
+["Mokko"]
+nominative = "Мокко"
+genitive = "Мокко"
+dative = "Мокко"
+accusative = "Мокко"
+instrumental = "Мокко"
+prepositional = "Мокко"
+gender = "neuter"
+
+["Frappuchino"]
+nominative = "Фраппучино"
+genitive = "Фраппучино"
+dative = "Фраппучино"
+accusative = "Фраппучино"
+instrumental = "Фраппучино"
+prepositional = "Фраппучино"
+gender = "neuter"
+
+["Macchiato"]
+nominative = "Макиато"
+genitive = "Макиато"
+dative = "Макиато"
+accusative = "Макиато"
+instrumental = "Макиато"
+prepositional = "Макиато"
+gender = "neuter"
+
+["Espresso"]
+nominative = "Эспрессо"
+genitive = "Эспрессо"
+dative = "Эспрессо"
+accusative = "Эспрессо"
+instrumental = "Эспрессо"
+prepositional = "Эспрессо"
+gender = "neuter"
+
+["Fruit tea"]
+nominative = "Фруктовый чай"
+genitive = "Фруктового чая"
+dative = "Фруктовому чаю"
+accusative = "Фруктовый чай"
+instrumental = "Фруктовым чаем"
+prepositional = "Фруктовом чае"
+gender = "male"
+
+["Pumpkin latte"]
+nominative = "Тыквенный латте"
+genitive = "Тыквенного латте"
+dative = "Тыквенному латте"
+accusative = "Тыквенный латте"
+instrumental = "Тыквенным латте"
+prepositional = "Тыквенном латте"
+gender = "male"
+
+["Teh tahlua"]
+nominative = "Тэ-талуа"
+genitive = "Тэ-талуа"
+dative = "Тэ-талуа"
+accusative = "Тэ-талуа"
+instrumental = "Тэ-талуа"
+prepositional = "Тэ-талуа"
+gender = "neuter"
+
+["Chifir"]
+nominative = "Чифир"
+genitive = "Чифира"
+dative = "Чифиру"
+accusative = "Чифир"
+instrumental = "Чифиром"
+prepositional = "Чифире"
+gender = "male"
+
+["Lord of Permabrig"]
+nominative = "Повелитель Пермабрига"
+genitive = "Повелителя Пермабрига"
+dative = "Повелителю Пермабрига"
+accusative = "Повелителя Пермабрига"
+instrumental = "Повелителем Пермабрига"
+prepositional = "Повелителе Пермабрига"
+gender = "male"
+
+["Lavender ruff"]
+nominative = "Лавандовый рафф"
+genitive = "Лавандового раффа"
+dative = "Лавандовому раффу"
+accusative = "Лавандовый рафф"
+instrumental = "Лавандовым раффом"
+prepositional = "Лавандовом раффе"
 gender = "male"
 
 # MARK: Boozies
@@ -9895,6 +10130,15 @@ instrumental = "комбинезоном парамедика"
 prepositional = "комбинезоне парамедика"
 gender = "male"
 
+["light paramedic uniform"]
+nominative = "светлая униформа парамедика"
+genitive = "светлой униформы парамедика"
+dative = "светлой униформе парамедика"
+accusative = "светлую униформу парамедика"
+instrumental = "светлой униформой парамедика"
+prepositional = "светлой униформе парамедика"
+gender = "male"
+
 ["paramedic jumpskirt"]
 nominative = "юбка-комбинезон парамедика"
 genitive = "юбки-комбинезона парамедика"
@@ -9902,6 +10146,15 @@ dative = "юбке-комбинезону парамедика"
 accusative = "юбку-комбинезон парамедика"
 instrumental = "юбкой-комбинезоном парамедика"
 prepositional = "юбке-комбинезоне парамедика"
+gender = "female"
+
+["light paramedic skirt"]
+nominative = "светлая юбка парамедика"
+genitive = "светлой юбки парамедика"
+dative = "светлой юбке парамедика"
+accusative = "светлую юбку парамедика"
+instrumental = "светлой юбкой парамедика"
+prepositional = "светлой юбке парамедика"
 gender = "female"
 
 ["paramedic's jacket"]
@@ -10235,6 +10488,15 @@ dative = "мешкам для трупов"
 accusative = "мешки для трупов"
 instrumental = "мешками для трупов"
 prepositional = "мешках для трупов"
+gender = "plural"
+
+["Stasis body bag"]
+nominative = "стазис-мешок для трупов"
+genitive = "стазис-мешка для трупов"
+dative = "стазис-мешку для трупов"
+accusative = "стазис-мешок для трупов"
+instrumental = "стазис-мешком для трупов"
+prepositional = "стазис-мешке для трупов"
 gender = "male"
 
 ["service medical headset"]
@@ -10383,6 +10645,24 @@ instrumental = "хирургической лентой"
 prepositional = "хирургической ленте"
 gender = "female"
 
+["hemoanalytic scanner"]
+nominative = "гемоаналитический сканер"
+genitive = "гемоаналитического сканера"
+dative = "гемоаналитическому сканеру"
+accusative = "гемоаналитический сканер"
+instrumental = "гемоаналитическим сканером"
+prepositional = "гемоаналитическом сканере"
+gender = "male"
+
+["reflex hammer"]
+nominative = "рефлекторный молоток"
+genitive = "рефлекторного молотка"
+dative = "рефлекторному молотку"
+accusative = "рефлекторный молоток"
+instrumental = "рефлекторным молотком"
+prepositional = "рефлекторном молотке"
+gender = "male"
+
 ["alien scalpel"]
 nominative = "инопланетный скальпель"
 genitive = "инопланетного скальпеля"
@@ -10527,6 +10807,15 @@ instrumental = "портативным химическим миксером"
 prepositional = "портативном химическом миксере"
 gender = "male"
 
+["Medical Flesh Reshaper"]
+nominative = "медицинский формирователь плоти"
+genitive = "медицинского формирователя плоти"
+dative = "медицинскому формирователю плоти"
+accusative = "медицинский формирователь плоти"
+instrumental = "медицинским формирователем плоти"
+prepositional = "медицинском формирователе плоти"
+gender = "male"
+
 ["medical bed"]
 nominative = "медицинская кровать"
 genitive = "медицинской кровати"
@@ -10579,6 +10868,42 @@ dative = "анализатору травм"
 accusative = "анализатор травм"
 instrumental = "анализатором травм"
 prepositional = "анализаторе травм"
+gender = "male"
+
+["disease state analyzer"]
+nominative = "анализатор болезней"
+genitive = "анализатора болезней"
+dative = "анализатору болезней"
+accusative = "анализатор болезней"
+instrumental = "анализатором болезней"
+prepositional = "анализаторе болезней"
+gender = "male"
+
+["mining wound analyzer"]
+nominative = "шахтерский анализатор травм"
+genitive = "шахтерского анализатора травм"
+dative = "шахтерскому анализатору травм"
+accusative = "шахтерский анализатор травм"
+instrumental = "шахтерским анализатором травм"
+prepositional = "шахтерском анализаторе травм"
+gender = "male"
+
+["Inhaler"]
+nominative = "ингалятор"
+genitive = "ингалятора"
+dative = "ингалятору"
+accusative = "ингалятор"
+instrumental = "ингалятором"
+prepositional = "ингаляторе"
+gender = "male"
+
+["Inhaler Canister"]
+nominative = "баллончик для ингалятора"
+genitive = "баллончика для ингалятора"
+dative = "баллончику для ингалятора"
+accusative = "баллончик для ингалятора"
+instrumental = "баллончиком для ингалятора"
+prepositional = "баллончике для ингалятора"
 gender = "male"
 
 ["ointment"]
@@ -11011,6 +11336,15 @@ dative = "хирургическому меднабору"
 accusative = "хирургический меднабор"
 instrumental = "хирургическим меднабором"
 prepositional = "хирургическом меднаборе"
+gender = "male"
+
+["surgery kit"]
+nominative = "хирургический набор"
+genitive = "хирургического набора"
+dative = "хирургическому набору"
+accusative = "хирургический набор"
+instrumental = "хирургическим набором"
+prepositional = "хирургическом наборе"
 gender = "male"
 
 # MARK: Organs
@@ -11482,6 +11816,15 @@ instrumental = "базовыми кибернетическими ушами"
 prepositional = "базовых кибернетических ушах"
 gender = "plural"
 
+["basic cybernetic cat ears"]
+nominative = "базовые кибернетические кошачьи уши"
+genitive = "базовых кибернетических кошачьих ушей"
+dative = "базовым кибернетическим кошачьим ушам"
+accusative = "базовые кибернетические кошачьи уши"
+instrumental = "базовыми кибернетическими кошачьими ушами"
+prepositional = "базовых кибернетических кошачьих ушах"
+gender = "plural"
+
 ["cybernetic ears"]
 nominative = "кибернетические уши"
 genitive = "кибернетических ушей"
@@ -11489,6 +11832,15 @@ dative = "кибернетическим ушам"
 accusative = "кибернетические уши"
 instrumental = "кибернетическими ушами"
 prepositional = "кибернетических ушах"
+gender = "plural"
+
+["cybernetic cat ears"]
+nominative = "кибернетические кошачьи уши"
+genitive = "кибернетических кошачьих ушей"
+dative = "кибернетическим кошачьим ушам"
+accusative = "кибернетические кошачьи уши"
+instrumental = "кибернетическими кошачьими ушами"
+prepositional = "кибернетических кошачьих ушах"
 gender = "plural"
 
 ["whisper-sensitive cybernetic ears"]
@@ -11500,6 +11852,15 @@ instrumental = "кибернетическими ушами с усиление�
 prepositional = "кибернетических ушах с усилением шёпота"
 gender = "plural"
 
+["whisper-sensiive cybernetic cat ears"]
+nominative = "кибернетические кошачьи уши с усилением шёпота"
+genitive = "кибернетических кошачьих ушей с усилением шёпота"
+dative = "кибернетическим кошачьим ушам с усилением шёпота"
+accusative = "кибернетические кошачьи уши с усилением шёпота"
+instrumental = "кибернетическими кошачьими ушами с усилением шёпота"
+prepositional = "кибернетических кошачьих ушах с усилением шёпота"
+gender = "plural"
+
 ["wall-penetrating cybernetic ears"]
 nominative = "кибернетические уши с пробитием стен"
 genitive = "кибернетических ушей с пробитием стен"
@@ -11507,6 +11868,33 @@ dative = "кибернетическим ушам с пробитием стен
 accusative = "кибернетические уши с пробитием стен"
 instrumental = "кибернетическими ушами с пробитием стен"
 prepositional = "кибернетических ушах с пробитием стен"
+gender = "plural"
+
+["wall-penetrating cybernetic cat ears"]
+nominative = "кибернетические кошачьи уши с пробитием стен"
+genitive = "кибернетических кошачьих ушей с пробитием стен"
+dative = "кибернетическим кошачьим ушам с пробитием стен"
+accusative = "кибернетические кошачьи уши с пробитием стен"
+instrumental = "кибернетическими кошачьими ушами с пробитием стен"
+prepositional = "кибернетических кошачьих ушах с пробитием стен"
+gender = "plural"
+
+["volume-adjusting cybernetic ears"]
+nominative = "кибернетические уши с регулировкой громкости"
+genitive = "кибернетических ушей с регулировкой громкости"
+dative = "кибернетическим ушам с регулировкой громкости"
+accusative = "кибернетические уши с регулировкой громкости"
+instrumental = "кибернетическими ушами с регулировкой громкости"
+prepositional = "кибернетических ушах с регулировкой громкости"
+gender = "plural"
+
+["volume-adjusting cybernetic cat ears"]
+nominative = "кибернетические кошачьи уши с регулировкой громкости"
+genitive = "кибернетических кошачьих ушей с регулировкой громкости"
+dative = "кибернетическим кошачьим ушам с регулировкой громкости"
+accusative = "кибернетические кошачьи уши с регулировкой громкости"
+instrumental = "кибернетическими кошачьими ушами с регулировкой громкости"
+prepositional = "кибернетических кошачьих ушах с регулировкой громкости"
 gender = "plural"
 
 ["basic robotic eyes"]
@@ -12311,6 +12699,15 @@ instrumental = "сенсором здоровья"
 prepositional = "сенсоре здоровья"
 gender = "male"
 
+["suit sensor"]
+nominative = "датчик костюма"
+genitive = "датчика костюма"
+dative = "датчику костюма"
+accusative = "датчик костюма"
+instrumental = "датчиком костюма"
+prepositional = "датчике костюма"
+gender = "male"
+
 ["proximity sensor"]
 nominative = "датчик движения"
 genitive = "датчика движения"
@@ -12327,6 +12724,24 @@ dative = "мензурке"
 accusative = "мензурку"
 instrumental = "мензуркой"
 prepositional = "мензурке"
+gender = "female"
+
+["organ jar"]
+nominative = "банка для органов"
+genitive = "банки для органов"
+dative = "банке для органов"
+accusative = "банку для органов"
+instrumental = "банкой для органов"
+prepositional = "банке для органов"
+gender = "female"
+
+["plastic jerrycan"]
+nominative = "пластиковая канистра"
+genitive = "пластиковой канистры"
+dative = "пластиковой канистре"
+accusative = "пластиковую канистру"
+instrumental = "пластиковой канистрой"
+prepositional = "пластиковой канистре"
 gender = "female"
 
 ["large beaker"]
@@ -12495,6 +12910,107 @@ gender = "male"
 nominative = "КПК"
 gender = "male"
 
+# MARK: Reactive armors
+
+["reactive armor"]
+nominative = "реактивная броня"
+genitive = "реактивной брони"
+dative = "реактивной броне"
+accusative = "реактивную броню"
+instrumental = "реактивной бронёй"
+prepositional = "реактивной броне"
+gender = "female"
+
+["reactive teleport armor"]
+nominative = "реактивная телепортирующая броня"
+genitive = "реактивной телепортирующей брони"
+dative = "реактивной телепортирующей броне"
+accusative = "реактивную телепортирующую броню"
+instrumental = "реактивной телепортирующей бронёй"
+prepositional = "реактивной телепортирующей броне"
+gender = "female"
+
+["reactive psykerboost armor"]
+nominative = "реактивная броня усиления псиоников"
+genitive = "реактивной брони усиления псиоников"
+dative = "реактивной броне усиления псиоников"
+accusative = "реактивную броню усиления псиоников"
+instrumental = "реактивной бронёй усиления псиоников"
+prepositional = "реактивной броне усиления псиоников"
+gender = "female"
+
+["reactive incendiary armor"]
+nominative = "реактивная зажигательная броня"
+genitive = "реактивной зажигательной брони"
+dative = "реактивной зажигательной броне"
+accusative = "реактивную зажигательную броню"
+instrumental = "реактивной зажигательной бронёй"
+prepositional = "реактивной зажигательной броне"
+gender = "female"
+
+["reactive stealth armor"]
+nominative = "реактивная маскирующая броня"
+genitive = "реактивной маскирующей брони"
+dative = "реактивной маскирующей броне"
+accusative = "реактивную маскирующую броню"
+instrumental = "реактивной маскирующей бронёй"
+prepositional = "реактивной маскирующей броне"
+gender = "female"
+
+["reactive tesla armor"]
+nominative = "реактивная Тесла броня"
+genitive = "реактивной Тесла брони"
+dative = "реактивной Тесла броне"
+accusative = "реактивную Тесла броню"
+instrumental = "реактивной Тесла бронёй"
+prepositional = "реактивной Тесла броне"
+gender = "female"
+
+["reactive repulse armor"]
+nominative = "реактивная отталкивающая броня"
+genitive = "реактивной отталкивающей брони"
+dative = "реактивной отталкивающей броне"
+accusative = "реактивную отталкивающую броню"
+instrumental = "реактивной отталкивающей бронёй"
+prepositional = "реактивной отталкивающей броне"
+gender = "female"
+
+["reactive hallucinating armor"]
+nominative = "реактивная галлюциногенная броня"
+genitive = "реактивной галлюциногенной брони"
+dative = "реактивной галлюциногенной броне"
+accusative = "реактивную галлюциногенную броню"
+instrumental = "реактивной галлюциногенной бронёй"
+prepositional = "реактивной галлюциногенной броне"
+gender = "female"
+
+["reactive bioscrambling armor"]
+nominative = "реактивная биоскремблирующая броня"
+genitive = "реактивной биоскремблирующей брони"
+dative = "реактивной биоскремблирующей броне"
+accusative = "реактивную биоскремблирующую броню"
+instrumental = "реактивной биоскремблирующей бронёй"
+prepositional = "реактивной биоскремблирующей броне"
+gender = "female"
+
+["reactive barricade armor"]
+nominative = "реактивная баррикадная броня"
+genitive = "реактивной баррикадной брони"
+dative = "реактивной баррикадной броне"
+accusative = "реактивную баррикадную броню"
+instrumental = "реактивной баррикадной бронёй"
+prepositional = "реактивной баррикадной броне"
+gender = "female"
+
+["reactive possession armor"]
+nominative = "реактивная броня одержимости"
+genitive = "реактивной брони одержимости"
+dative = "реактивной броне одержимости"
+accusative = "реактивную броню одержимости"
+instrumental = "реактивной бронёй одержимости"
+prepositional = "реактивной броне одержимости"
+gender = "female"
+
 # MARK: Vendor
 ["science beret"]
 nominative = "берет учёного"
@@ -12530,6 +13046,15 @@ dative = "юбке-комбинезону учёного"
 accusative = "юбку-комбинезон учёного"
 instrumental = "юбкой-комбинезоном учёного"
 prepositional = "юбке-комбинезоне учёного"
+gender = "female"
+
+["science utility uniform"]
+nominative = "практичная научная униформа"
+genitive = "практической научной униформы"
+dative = "практической научной униформе"
+accusative = "практичную научную униформу"
+instrumental = "практической научной униформой"
+prepositional = "практической научной униформе"
 gender = "female"
 
 ["science winter coat"]
@@ -16799,6 +17324,33 @@ instrumental = "полосатой инженерной банданой"
 prepositional = "полосатой инженерной бандане"
 gender = "female"
 
+["engineering alternative jumpsuit"]
+nominative = "инженерный комбинезон"
+genitive = "инженерного комбинезона"
+dative = "инженерному комбинезону"
+accusative = "инженерный комбинезон"
+instrumental = "инженерным комбинезоном"
+prepositional = "инженерном комбинезоне"
+gender = "male"
+
+["engineering alternative jumpskirt"]
+nominative = "инженерная юбка-комбинезон"
+genitive = "инженерной юбки-комбинезона"
+dative = "инженерной юбке-комбинезону"
+accusative = "инженерную юбку-комбинезон"
+instrumental = "инженерной юбкой-комбинезоном"
+prepositional = "инженерной юбке-комбинезоне"
+gender = "female"
+
+["mechanic uniform"]
+nominative = "униформа механика"
+genitive = "униформы механика"
+dative = "униформе механика"
+accusative = "униформу механика"
+instrumental = "униформой механика"
+prepositional = "униформе механика"
+gender = "female"
+
 ["engineer's jumpskirt"]
 nominative = "юбка-комбинезон инженера"
 genitive = "юбки-комбинезона инженера"
@@ -17248,6 +17800,15 @@ instrumental = "челюстями смерти"
 prepositional = "челюстях смерти"
 gender = "plural"
 
+["jaws of recovery"]
+nominative = "челюсти спасения"
+genitive = "челюстей спасения"
+dative = "челюстям спасения"
+accusative = "челюсти спасения"
+instrumental = "челюстями спасения"
+prepositional = "челюстях спасения"
+gender = "plural"
+
 ["gas analyzer"]
 nominative = "газоанализатор"
 genitive = "газоанализатора"
@@ -17453,12 +18014,12 @@ prepositional = "УБС улучшении - привязке к силосу"
 gender = "neuter"
 
 ["RPD advanced upgrade: wrench mode"]
-nominative = "УБС улучшение - режим гаечного ключа"
-genitive = "УБС улучшения - режима гаечного ключа"
-dative = "УБС улучшению - режиму гаечного ключа"
-accusative = "УБС улучшение - режим гаечного ключа"
-instrumental = "УБС улучшением - режимом гаечного ключа"
-prepositional = "УБС улучшении - режиме гаечного ключа"
+nominative = "БРТ улучшение - режим гаечного ключа"
+genitive = "БРТ улучшения - режима гаечного ключа"
+dative = "БРТ улучшению - режиму гаечного ключа"
+accusative = "БРТ улучшение - режим гаечного ключа"
+instrumental = "БРТ улучшением - режимом гаечного ключа"
+prepositional = "БРТ улучшении - режиме гаечного ключа"
 gender = "neuter"
 
 ["mini-rapid-light-device"]
@@ -18296,6 +18857,15 @@ instrumental = "гарнитурой боуман капитана"
 prepositional = "гарнитуре боуман капитана"
 gender = "female"
 
+["the captain's headset"]
+nominative = "гарнитура капитана"
+genitive = "гарнитуры капитана"
+dative = "гарнитуре капитана"
+accusative = "гарнитуру капитана"
+instrumental = "гарнитурой капитана"
+prepositional = "гарнитуре капитана"
+gender = "female"
+
 ["captain's gloves"]
 nominative = "перчатки капитана"
 genitive = "перчаток капитана"
@@ -18393,6 +18963,87 @@ dative = "плащу капитана"
 accusative = "плащ капитана"
 instrumental = "плащом капитана"
 prepositional = "плаще капитана"
+gender = "male"
+
+["sabre sheath"]
+nominative = "ножны для сабли"
+genitive = "ножен для сабли"
+dative = "ножнам для сабли"
+accusative = "ножны для сабли"
+instrumental = "ножнами для сабли"
+prepositional = "ножнах для сабли"
+gender = "plural"
+
+["officer's sabre"]
+nominative = "сабля офицера"
+genitive = "сабли офицера"
+dative = "сабле офицера"
+accusative = "саблю офицера"
+instrumental = "саблей офицера"
+prepositional = "сабле офицера"
+gender = "female"
+
+["captain's locker"]
+nominative = "шкафчик капитана"
+genitive = "шкафчика капитана"
+dative = "шкафчику капитана"
+accusative = "шкафчик капитана"
+instrumental = "шкафчиком капитана"
+prepositional = "шкафчике капитана"
+gender = "male"
+
+["command door remote"]
+nominative = "пульт управления дверями командования"
+genitive = "пульта управления дверями командования"
+dative = "пульту управления дверями командования"
+accusative = "пульт управления дверями командования"
+instrumental = "пультом управления дверями командования"
+prepositional = "пульте управления дверями командования"
+gender = "male"
+
+["nuclear authentication disk"]
+nominative = "диск ядерной аутентификации"
+genitive = "диска ядерной аутентификации"
+dative = "диску ядерной аутентификации"
+accusative = "диск ядерной аутентификации"
+instrumental = "диском ядерной аутентификации"
+prepositional = "диске ядерной аутентификации"
+gender = "male"
+
+["chain of command"]
+nominative = "цепь командования"
+genitive = "цепи командования"
+dative = "цепи командования"
+accusative = "цепь командования"
+instrumental = "цепью командования"
+prepositional = "цепи командования"
+gender = "female"
+
+["medal box"]
+nominative = "коробка с медалями"
+genitive = "коробки с медалями"
+dative = "коробке с медалями"
+accusative = "коробку с медалями"
+instrumental = "коробкой с медалями"
+prepositional = "коробке с медалями"
+gender = "female"
+
+["captain's jetpack"]
+nominative = "реактивный ранец капитана"
+genitive = "реактивного ранца капитана"
+dative = "реактивному ранцу капитана"
+accusative = "реактивный ранец капитана"
+instrumental = "реактивным ранцем капитана"
+prepositional = "реактивном ранце капитана"
+gender = "male"
+
+["hand tele"]
+nominative = "ручной телепортер"
+genitive = "ручного телепортера"
+dative = "ручному телепортеру"
+accusative = "ручной телепортер"
+instrumental = "ручным телепортером"
+prepositional = "ручном телепортере"
 gender = "male"
 
 # MARK: Blueshield
@@ -18495,6 +19146,24 @@ instrumental = "юбкой-костюмом синего щита"
 prepositional = "юбке-костюме синего щита"
 gender = "female"
 
+["blueshield's blue skirt"]
+nominative = "синяя юбка синего щита"
+genitive = "синей юбки синего щита"
+dative = "синей юбке синего щита"
+accusative = "синюю юбку синего щита"
+instrumental = "синей юбкой синего щита"
+prepositional = "синей юбке синего щита"
+gender = "female"
+
+["blueshield's black skirt"]
+nominative = "чёрная юбка синего щита"
+genitive = "чёрной юбки синего щита"
+dative = "чёрной юбке синего щита"
+accusative = "чёрную юбку синего щита"
+instrumental = "чёрной юбкой синего щита"
+prepositional = "чёрной юбке синего щита"
+gender = "female"
+
 ["blueshield's casual suit"]
 nominative = "повседневный костюм синего щита"
 genitive = "повседневного костюма синего щита"
@@ -18565,6 +19234,24 @@ dative = "медицинским солнцезащитным ИЛС очкам"
 accusative = "медицинские солнцезащитные ИЛС очки"
 instrumental = "медицинскими солнцезащитными ИЛС очками"
 prepositional = "медицинских солнцезащитных ИЛС очках"
+gender = "plural"
+
+["Science Glasses"]
+nominative = "научные солнцезащитные ИЛС очки"
+genitive = "научных солнцезащитных ИЛС очков"
+dative = "научным солнцезащитным ИЛС очкам"
+accusative = "научные солнцезащитные ИЛС очки"
+instrumental = "научными солнцезащитными ИЛС очками"
+prepositional = "научных солнцезащитных ИЛС очках"
+gender = "plural"
+
+["Diagnostic HUDsunglasses"]
+nominative = "диагностические солнцезащитные ИЛС очки"
+genitive = "диагностических солнцезащитных ИЛС очков"
+dative = "диагностическим солнцезащитным ИЛС очкам"
+accusative = "диагностические солнцезащитные ИЛС очки"
+instrumental = "диагностическими солнцезащитными ИЛС очками"
+prepositional = "диагностических солнцезащитных ИЛС очках"
 gender = "plural"
 
 # MARK: Magistrate
@@ -18777,7 +19464,79 @@ instrumental = "плащом главного инженера"
 prepositional = "плаще главного инженера"
 gender = "male"
 
+["station blueprints"]
+nominative = "чертежи станции"
+genitive = "чертежей станции"
+dative = "чертежам станции"
+accusative = "чертежи станции"
+instrumental = "чертежами станции"
+prepositional = "чертежах станции"
+gender = "plural"
+
+["chief engineer data disk"]
+nominative = "диск данных главного инженера"
+genitive = "диска данных главного инженера"
+dative = "диску данных главного инженера"
+accusative = "диск данных главного инженера"
+instrumental = "диском данных главного инженера"
+prepositional = "диске данных главного инженера"
+gender = "male"
+
+["engineering door remote"]
+nominative = "пульт управления дверями инженерии"
+genitive = "пульта управления дверями инженерии"
+dative = "пульту управления дверями инженерии"
+accusative = "пульт управления дверями инженерии"
+instrumental = "пультом управления дверями инженерии"
+prepositional = "пульте управления дверями инженерии"
+gender = "male"
+
+["engineering medal box"]
+nominative = "коробка с медалями инженерии"
+genitive = "коробки с медалями инженерии"
+dative = "коробке с медалями инженерии"
+accusative = "коробку с медалями инженерии"
+instrumental = "коробкой с медалями инженерии"
+prepositional = "коробке с медалями инженерии"
+gender = "female"
+
+["chief engineer's locker"]
+nominative = "шкафчик главного инженера"
+genitive = "шкафчика главного инженера"
+dative = "шкафчику главного инженера"
+accusative = "шкафчик главного инженера"
+instrumental = "шкафчиком главного инженера"
+prepositional = "шкафчике главного инженера"
+gender = "male"
+
+["box of engineering job skillchips"]
+nominative = "коробка инженерных скиллчипов"
+genitive = "коробки инженерных скиллчипов"
+dative = "коробке инженерных скиллчипов"
+accusative = "коробку инженерных скиллчипов"
+instrumental = "коробкой инженерных скиллчипов"
+prepositional = "коробке инженерных скиллчипов"
+gender = "female"
+
+["Engineering C1-RCU-1T skillchip"]
+nominative = "инженерный скиллчип C1-RCU-1T"
+genitive = "инженерного скиллчипа C1-RCU-1T"
+dative = "инженерному скиллчипу C1-RCU-1T"
+accusative = "инженерный скиллчип C1-RCU-1T"
+instrumental = "инженерным скиллчипом C1-RCU-1T"
+prepositional = "инженерном скиллчипе C1-RCU-1T"
+gender = "male"
+
 # MARK: Chief Medical Officer
+
+["hypospray"]
+nominative = "гипоспрей"
+genitive = "гипоспрея"
+dative = "гипоспрею"
+accusative = "гипоспрей"
+instrumental = "гипоспреем"
+prepositional = "гипоспрее"
+gender = "male"
 
 ["chief medical officer's jumpsuit"]
 nominative = "комбинезон главного врача"
@@ -18896,7 +19655,44 @@ instrumental = "плащом главного врача"
 prepositional = "плаще главного врача"
 gender = "male"
 
+["medical door remote"]
+nominative = "пульт управления дверями медицины"
+genitive = "пульта управления дверями медицины"
+dative = "пульту управления дверями медицины"
+accusative = "пульт управления дверями медицины"
+instrumental = "пультом управления дверями медицины"
+prepositional = "пульте управления дверями медицины"
+gender = "male"
+
+["chief medical officer data disk"]
+nominative = "диск данных главного врача"
+genitive = "диска данных главного врача"
+dative = "диску данных главного врача"
+accusative = "диск данных главного врача"
+instrumental = "диском данных главного врача"
+prepositional = "диске данных главного врача"
+gender = "male"
+
+["medical medal box"]
+nominative = "коробка с медалями медицины"
+genitive = "коробки с медалями медицины"
+dative = "коробке с медалями медицины"
+accusative = "коробку с медалями медицины"
+instrumental = "коробкой с медалями медицины"
+prepositional = "коробке с медалями медицины"
+gender = "female"
+
+["chief medical officer's locker"]
+nominative = "шкафчик главного врача"
+genitive = "шкафчика главного врача"
+dative = "шкафчику главного врача"
+accusative = "шкафчик главного врача"
+instrumental = "шкафчиком главного врача"
+prepositional = "шкафчике главного врача"
+gender = "male"
+
 # MARK: Head of Personnel
+
 ["head of personnel's uniform"]
 nominative = "униформа главы персонала"
 genitive = "униформы главы персонала"
@@ -18969,7 +19765,71 @@ instrumental = "плащом главы персонала"
 prepositional = "плаще главы персонала"
 gender = "male"
 
+["head of personnel data disk"]
+nominative = "диск данных главы персонала"
+genitive = "диска данных главы персонала"
+dative = "диску данных главы персонала"
+accusative = "диск данных главы персонала"
+instrumental = "диском данных главы персонала"
+prepositional = "диске данных главы персонала"
+gender = "male"
+
+["service door remote"]
+nominative = "пульт управления дверями обслуживания"
+genitive = "пульта управления дверями обслуживания"
+dative = "пульту управления дверями обслуживания"
+accusative = "пульт управления дверями обслуживания"
+instrumental = "пультом управления дверями обслуживания"
+prepositional = "пульте управления дверями обслуживания"
+gender = "male"
+
+["service award box"]
+nominative = "коробка с наградами обслуживания"
+genitive = "коробки с наградами обслуживания"
+dative = "коробке с наградами обслуживания"
+accusative = "коробку с наградами обслуживания"
+instrumental = "коробкой с наградами обслуживания"
+prepositional = "коробке с наградами обслуживания"
+gender = "female"
+
+["box of spare silver IDs"]
+nominative = "коробка запасных серебряных ID-карт"
+genitive = "коробки запасных серебряных ID-карт"
+dative = "коробке запасных серебряных ID-карт"
+accusative = "коробку запасных серебряных ID-карт"
+instrumental = "коробкой запасных серебряных ID-карт"
+prepositional = "коробке запасных серебряных ID-карт"
+gender = "female"
+
+["box of spare IDs"]
+nominative = "коробка запасных ID-карт"
+genitive = "коробки запасных ID-карт"
+dative = "коробке запасных ID-карт"
+accusative = "коробку запасных ID-карт"
+instrumental = "коробкой запасных ID-карт"
+prepositional = "коробке запасных ID-карт"
+gender = "female"
+
+["Head of Personnel medal box"]
+nominative = "коробка с медалями главы персонала"
+genitive = "коробки с медалями главы персонала"
+dative = "коробке с медалями главы персонала"
+accusative = "коробку с медалями главы персонала"
+instrumental = "коробкой с медалями главы персонала"
+prepositional = "коробке с медалями главы персонала"
+gender = "female"
+
+["head of personnel's locker"]
+nominative = "шкафчик главы персонала"
+genitive = "шкафчика главы персонала"
+dative = "шкафчику главы персонала"
+accusative = "шкафчик главы персонала"
+instrumental = "шкафчиком главы персонала"
+prepositional = "шкафчике главы персонала"
+gender = "male"
+
 # MARK: Head of Security
+
 ["head of security's locker"]
 nominative = "шкафчик главы службы безопасности"
 genitive = "шкафчика главы службы безопасности"
@@ -18998,12 +19858,12 @@ prepositional = "гарнитуре главы службы безопаснос
 gender = "female"
 
 ["the head of security's bowman headset"]
-nominative = "гарнитура bowman главы службы безопасности"
-genitive = "гарнитуры bowman главы службы безопасности"
-dative = "гарнитуре bowman главы службы безопасности"
-accusative = "гарнитуру bowman главы службы безопасности"
-instrumental = "гарнитурой bowman главы службы безопасности"
-prepositional = "гарнитуре bowman главы службы безопасности"
+nominative = "гарнитура боуман главы службы безопасности"
+genitive = "гарнитуры боуман главы службы безопасности"
+dative = "гарнитуре боуман главы службы безопасности"
+accusative = "гарнитуру боуман главы службы безопасности"
+instrumental = "гарнитурой боуман главы службы безопасности"
+prepositional = "гарнитуре боуман главы службы безопасности"
 gender = "female"
 
 ["head of security's garment bag"]
@@ -19133,12 +19993,12 @@ prepositional = "берете главы службы безопасности"
 gender = "male"
 
 ["gorilla gloves"]
-nominative = "перчатки gorilla"
-genitive = "перчаток gorilla"
-dative = "перчаткам gorilla"
-accusative = "перчатки gorilla"
-instrumental = "перчатками gorilla"
-prepositional = "перчатках gorilla"
+nominative = "перчатки «Горилла»"
+genitive = "перчаток «Горилла»"
+dative = "перчаткам «Горилла»"
+accusative = "перчатки «Горилла»"
+instrumental = "перчатками «Горилла»"
+prepositional = "перчатках «Горилла»"
 gender = "plural"
 
 ["head of security's parade uniform"]
@@ -19366,6 +20226,42 @@ dative = "плащу директора исследований"
 accusative = "плащ директора исследований"
 instrumental = "плащом директора исследований"
 prepositional = "плаще директора исследований"
+gender = "male"
+
+["research director data disk"]
+nominative = "диск данных директора исследований"
+genitive = "диска данных директора исследований"
+dative = "диску данных директора исследований"
+accusative = "диск данных директора исследований"
+instrumental = "диском данных директора исследований"
+prepositional = "диске данных директора исследований"
+gender = "male"
+
+["research door remote"]
+nominative = "пульт управления дверями науки"
+genitive = "пульта управления дверями науки"
+dative = "пульту управления дверями науки"
+accusative = "пульт управления дверями науки"
+instrumental = "пультом управления дверями науки"
+prepositional = "пульте управления дверями науки"
+gender = "male"
+
+["science medal box"]
+nominative = "коробка с медалями науки"
+genitive = "коробки с медалями науки"
+dative = "коробке с медалями науки"
+accusative = "коробку с медалями науки"
+instrumental = "коробкой с медалями науки"
+prepositional = "коробке с медалями науки"
+gender = "female"
+
+["research director's locker"]
+nominative = "шкафчик директора исследований"
+genitive = "шкафчика директора исследований"
+dative = "шкафчику директора исследований"
+accusative = "шкафчик директора исследований"
+instrumental = "шкафчиком директора исследований"
+prepositional = "шкафчике директора исследований"
 gender = "male"
 
 # MARK: Burocracy and Art
@@ -20168,6 +21064,33 @@ accusative = "пиратскую бандану"
 instrumental = "пиратской банданой"
 prepositional = "пиратской бандане"
 gender = "female"
+
+["combat boots"]
+nominative = "боевые ботинки"
+genitive = "боевых ботинок"
+dative = "боевым ботинкам"
+accusative = "боевые ботинки"
+instrumental = "боевыми ботинками"
+prepositional = "боевых ботинках"
+gender = "plural"
+
+["SWAT boots"]
+nominative = "ботинки SWAT"
+genitive = "ботинок SWAT"
+dative = "ботинкам SWAT"
+accusative = "ботинки SWAT"
+instrumental = "ботинками SWAT"
+prepositional = "ботинках SWAT"
+gender = "plural"
+
+["ice hiking boots"]
+nominative = "ледовые походные ботинки"
+genitive = "ледовых походных ботинок"
+dative = "ледовым походным ботинкам"
+accusative = "ледовые походные ботинки"
+instrumental = "ледовыми походными ботинками"
+prepositional = "ледовых походных ботинках"
+gender = "plural"
 
 ["pirate boots"]
 nominative = "пиратские ботинки"
@@ -21815,6 +22738,15 @@ accusative = "красные очки"
 instrumental = "красными очками"
 prepositional = "красных очках"
 gender = "male"
+
+["combat gloves"]
+nominative = "боевые перчатки"
+genitive = "боевых перчаток"
+dative = "боевым перчаткам"
+accusative = "боевые перчатки"
+instrumental = "боевыми перчатками"
+prepositional = "боевых перчатках"
+gender = "plural"
 
 ["fingerless gloves"]
 nominative = "перчатки без пальцев"
@@ -24723,6 +25655,8 @@ accusative = "Нар'Си"
 instrumental = "Нар'Си"
 prepositional = "Нар'Си"
 
+# MARK: Anomaly cores
+
 ["raw bluespace core"]
 nominative = "сырое блюспейс ядро"
 genitive = "сырого блюспейс ядра"
@@ -24730,6 +25664,7 @@ dative = "сырому блюспейс ядру"
 accusative = "сырое блюспейс ядро"
 instrumental = "сырым блюспейс ядром"
 prepositional = "сыром блюспейс ядре"
+gender = "neuter"
 
 ["raw vortex core"]
 nominative = "сырое вортекс ядро"
@@ -24738,6 +25673,7 @@ dative = "сырому вортекс ядру"
 accusative = "сырое вортекс ядро"
 instrumental = "сырым вортекс ядром"
 prepositional = "сыром вортекс ядре"
+gender = "neuter"
 
 ["raw gravity core"]
 nominative = "сырое гравитационное ядро"
@@ -24746,6 +25682,7 @@ dative = "сырому гравитационному ядру"
 accusative = "сырое гравитационное ядро"
 instrumental = "сырым гравитационным ядром"
 prepositional = "сыром гравитационном ядре"
+gender = "neuter"
 
 ["raw pyro core"]
 nominative = "сырое пиро ядро"
@@ -24754,6 +25691,7 @@ dative = "сырому пиро ядру"
 accusative = "сырое пиро ядро"
 instrumental = "сырым пиро ядром"
 prepositional = "сыром пиро ядре"
+gender = "neuter"
 
 ["raw flux core"]
 nominative = "сырое флюкс ядро"
@@ -24762,6 +25700,7 @@ dative = "сырому флюкс ядру"
 accusative = "сырое флюкс ядро"
 instrumental = "сырым флюкс ядром"
 prepositional = "сыром флюкс ядре"
+gender = "neuter"
 
 ["raw bioscrambler core"]
 nominative = "сырое биоскремблер ядро"
@@ -24770,6 +25709,7 @@ dative = "сырому биоскремблер ядру"
 accusative = "сырое биоскремблер ядро"
 instrumental = "сырым биоскремблер ядром"
 prepositional = "сыром биоскремблер ядре"
+gender = "neuter"
 
 ["raw dimensional core"]
 nominative = "сырое пространственное ядро"
@@ -24778,6 +25718,7 @@ dative = "сырому пространственному ядру"
 accusative = "сырое пространственное ядро"
 instrumental = "сырым пространственным ядром"
 prepositional = "сыром пространственном ядре"
+gender = "neuter"
 
 ["raw ectoplasm core"]
 nominative = "сырое эктоплазменное ядро"
@@ -24786,6 +25727,7 @@ dative = "сырому эктоплазменному ядру"
 accusative = "сырое эктоплазменное ядро"
 instrumental = "сырым эктоплазменным ядром"
 prepositional = "сыром эктоплазменном ядре"
+gender = "neuter"
 
 ["raw hallucination core"]
 nominative = "сырое галлюцинаторное ядро"
@@ -24794,6 +25736,16 @@ dative = "сырому галлюцинаторному ядру"
 accusative = "сырое галлюцинаторное ядро"
 instrumental = "сырым галлюцинаторным ядром"
 prepositional = "сыром галлюцинаторном ядре"
+gender = "neuter"
+
+["raw weather core"]
+nominative = "сырое погодное ядро"
+genitive = "сырого погодного ядра"
+dative = "сырому погодному ядру"
+accusative = "сырое погодное ядро"
+instrumental = "сырым погодным ядром"
+prepositional = "сыром погодном ядре"
+gender = "neuter"
 
 ["pyroclastic anomaly core"]
 nominative = "пирокластическое аномальное ядро"
@@ -24802,6 +25754,7 @@ dative = "пирокластическому аномальному ядру"
 accusative = "пирокластическое аномальное ядро"
 instrumental = "пирокластическим аномальным ядром"
 prepositional = "пирокластическом аномальном ядре"
+gender = "neuter"
 
 ["gravitational anomaly core"]
 nominative = "гравитационное аномальное ядро"
@@ -24810,6 +25763,7 @@ dative = "гравитационному аномальному ядру"
 accusative = "гравитационное аномальное ядро"
 instrumental = "гравитационным аномальным ядром"
 prepositional = "гравитационном аномальном ядре"
+gender = "neuter"
 
 ["bluespace anomaly core"]
 nominative = "аномальное ядро блюспейс"
@@ -24818,6 +25772,7 @@ dative = "аномальному ядру блюспейс"
 accusative = "аномальное ядро блюспейс"
 instrumental = "аномальным ядром блюспейс"
 prepositional = "аномальном ядре блюспейс"
+gender = "neuter"
 
 ["vortex anomaly core"]
 nominative = "аномальное ядро вортекс"
@@ -24826,6 +25781,7 @@ dative = "аномальному ядру вортекс"
 accusative = "аномальное ядро вортекс"
 instrumental = "аномальным ядром вортекс"
 prepositional = "аномальном ядре вортекс"
+gender = "neuter"
 
 ["flux anomaly core"]
 nominative = "аномальное ядро флюкс"
@@ -24834,6 +25790,7 @@ dative = "аномальному ядру флюкс"
 accusative = "аномальное ядро флюкс"
 instrumental = "аномальным ядром флюкс"
 prepositional = "аномальном ядре флюкс"
+gender = "neuter"
 
 ["bioscrambler anomaly core"]
 nominative = "аномальное ядро биоскремблер"
@@ -24842,6 +25799,7 @@ dative = "аномальному ядру биоскремблер"
 accusative = "аномальное ядро биоскремблер"
 instrumental = "аномальным ядром биоскремблер"
 prepositional = "аномальном ядре биоскремблер"
+gender = "neuter"
 
 ["hallucination anomaly core"]
 nominative = "галлюцинаторное аномальное ядро"
@@ -24850,6 +25808,7 @@ dative = "галлюцинаторному аномальному ядру"
 accusative = "галлюцинаторное аномальное ядро"
 instrumental = "галлюцинаторным аномальным ядром"
 prepositional = "галлюцинаторном аномальном ядре"
+gender = "neuter"
 
 ["dimensional anomaly core"]
 nominative = "пространственное аномальное ядро"
@@ -24858,6 +25817,18 @@ dative = "пространственному аномальному ядру"
 accusative = "пространственное аномальное ядро"
 instrumental = "пространственным аномальным ядром"
 prepositional = "пространственном аномальном ядре"
+gender = "neuter"
+
+["weather anomaly core"]
+nominative = "погодное аномальное ядро"
+genitive = "погодного аномального ядра"
+dative = "погодному аномальному ядру"
+accusative = "погодное аномальное ядро"
+instrumental = "погодным аномальным ядром"
+prepositional = "погодном аномальном ядре"
+gender = "neuter"
+
+# MARK: Banners
 
 ["banner"]
 nominative = "знамя"
@@ -25147,6 +26118,8 @@ instrumental = "знаменем синтетиков"
 prepositional = "знамени синтетиков"
 gender = "neuter"
 
+# MARK: Banking: IDs, money
+
 ["captain's spare ID"]
 nominative = "запасная ID-карта капитана"
 genitive = "запасной ID-карты капитана"
@@ -25163,6 +26136,15 @@ dative = "серебряной ID-карте"
 accusative = "серебряную ID-карту"
 instrumental = "серебряной ID-картой"
 prepositional = "серебряной ID-карте"
+gender = "female"
+
+["agent card"]
+nominative = "карта агента"
+genitive = "карты агента"
+dative = "карте агента"
+accusative = "карту агента"
+instrumental = "картой агента"
+prepositional = "карте агента"
 gender = "female"
 
 ["space cash"]
@@ -25402,6 +26384,15 @@ dative = "заброшенному медицинскому отделу"
 accusative = "заброшенный медицинский отдел"
 instrumental = "заброшенным медицинским отделом"
 prepositional = "заброшенном медицинском отделе"
+gender = "male"
+
+["Medical"]
+nominative = "медицинский отдел"
+genitive = "медицинского отдела"
+dative = "медицинскому отделу"
+accusative = "медицинский отдел"
+instrumental = "медицинским отделом"
+prepositional = "медицинском отделе"
 gender = "male"
 
 ["Medbay Central"]
@@ -25891,6 +26882,15 @@ accusative = "инженерный отдел"
 instrumental = "инженерным отделом"
 prepositional = "инженерном отделе"
 gender = "female"
+
+["Engineering Foyer"]
+nominative = "фойе инженерного отдела"
+genitive = "фойе инженерного отдела"
+dative = "фойе инженерному отделу"
+accusative = "фойе инженерного отдела"
+instrumental = "фойе инженерного отделам"
+prepositional = "фойе инженерного отдела"
+gender = "neuter"
 
 ["Engineering Hallway"]
 nominative = "коридор инженерного отдела"
@@ -26915,13 +27915,142 @@ instrumental = "залом заседаний совета"
 prepositional = "зале заседаний совета"
 gender = "male"
 
-["glimmering residue"]
-nominative = "мерцающий осадок"
-genitive = "мерцающего осадка"
-dative = "мерцающему осадку"
-accusative = "мерцающий осадок"
-instrumental = "мерцающим осадком"
-prepositional = "мерцающем осадке"
+["EVA Storage"]
+nominative = "хранилище ВКД"
+genitive = "хранилища ВКД"
+dative = "хранилищу ВКД"
+accusative = "хранилище ВКД"
+instrumental = "хранилищем ВКД"
+prepositional = "хранилище ВКД"
+gender = "neuter"
+
+["Vault"]
+nominative = "хранилище"
+genitive = "хранилища"
+dative = "хранилищу"
+accusative = "хранилище"
+instrumental = "хранилищем"
+prepositional = "хранилище"
+gender = "neuter"
+
+## AI Areas
+
+["AI Upload Chamber"]
+nominative = "отсек загрузки ИИ"
+genitive = "отсека загрузки ИИ"
+dative = "отсеку загрузки ИИ"
+accusative = "отсек загрузки ИИ"
+instrumental = "отсеком загрузки ИИ"
+prepositional = "отсеке загрузки ИИ"
+gender = "male"
+
+["AI Upload Access"]
+nominative = "фойе отсека загрузки ИИ"
+genitive = "фойе отсека загрузки ИИ"
+dative = "фойе отсеку загрузки ИИ"
+accusative = "фойе отсека загрузки ИИ"
+instrumental = "фойе отсека загрузки ИИ"
+prepositional = "фойе отсека загрузки ИИ"
+gender = "neuter"
+
+["AI Satellite"]
+nominative = "спутник ИИ"
+genitive = "спутника ИИ"
+dative = "спутнику ИИ"
+accusative = "спутник ИИ"
+instrumental = "спутником ИИ"
+prepositional = "спутнике ИИ"
+gender = "male"
+
+["AI Chamber"]
+nominative = "отсек ИИ"
+genitive = "отсека ИИ"
+dative = "отсеку ИИ"
+accusative = "отсек ИИ"
+instrumental = "отсеком ИИ"
+prepositional = "отсеке ИИ"
+gender = "male"
+
+["AI Satellite Exterior"]
+nominative = "внешний контур спутника ИИ"
+genitive = "внешнего контура спутника ИИ"
+dative = "внешнему контуру спутника ИИ"
+accusative = "внешний контур спутника ИИ"
+instrumental = "внешним контуром спутника ИИ"
+prepositional = "внешнем контуре спутника ИИ"
+gender = "male"
+
+["AI Satellite Maintenance"]
+nominative = "тех.тоннели спутника ИИ"
+genitive = "тех. тоннелей спутника ИИ"
+dative = "тех. тоннелям спутника ИИ"
+accusative = "тех. тоннели спутника ИИ"
+instrumental = "тех. тоннелями спутника ИИ"
+prepositional = "тех. тоннелях спутника ИИ"
+gender = "male"
+
+["AI Satellite Storage"]
+nominative = "хранилище спутника ИИ"
+genitive = "хранилища спутника ИИ"
+dative = "хранилищу спутника ИИ"
+accusative = "хранилище спутника ИИ"
+instrumental = "хранилищем спутника ИИ"
+prepositional = "хранилище спутника ИИ"
+gender = "male"
+
+["AI Satellite Antechamber"]
+nominative = "приемная спутника ИИ"
+genitive = "приемной спутника ИИ"
+dative = "приемной спутника ИИ"
+accusative = "приемную спутника ИИ"
+instrumental = "приемной спутника ИИ"
+prepositional = "приемной спутника ИИ"
+gender = "female"
+
+["AI Satellite Foyer"]
+nominative = "фойе спутника ИИ"
+genitive = "фойе спутника ИИ"
+dative = "фойе спутника ИИ"
+accusative = "фойе спутника ИИ"
+instrumental = "фойе спутника ИИ"
+prepositional = "фойе спутника ИИ"
+gender = "neuter"
+
+["AI Satellite Hallway"]
+nominative = "коридор спутника ИИ"
+genitive = "коридора спутника ИИ"
+dative = "коридору спутника ИИ"
+accusative = "коридор спутника ИИ"
+instrumental = "коридором спутника ИИ"
+prepositional = "коридоре спутника ИИ"
+gender = "male"
+
+["AI Satellite Atmospherics"]
+nominative = "атмосферный отдел спутника ИИ"
+genitive = "атмосферного отдела спутника ИИ"
+dative = "атмосферному отделу спутника ИИ"
+accusative = "атмосферный отдел спутника ИИ"
+instrumental = "атмосферным отделом спутника ИИ"
+prepositional = "атмосферном отделе спутника ИИ"
+gender = "male"
+
+["AI Satellite Service"]
+nominative = "комната обслуживания спутника ИИ"
+genitive = "комнаты обслуживания спутника ИИ"
+dative = "комнате обслуживания спутника ИИ"
+accusative = "комнату обслуживания спутника ИИ"
+instrumental = "комнатой обслуживания спутника ИИ"
+prepositional = "комнате обслуживания спутника ИИ"
+gender = "female"
+
+["AI Satellite Teleporter"]
+nominative = "телепортерная спутника ИИ"
+genitive = "телепортерной спутника ИИ"
+dative = "телепортерной спутника ИИ"
+accusative = "телепортерную спутника ИИ"
+instrumental = "телепортерной спутника ИИ"
+prepositional = "телепортерной спутника ИИ"
+gender = "female"
 
 ## Common Areas
 
@@ -26930,7 +28059,7 @@ nominative = "дормитории"
 genitive = "дормиториев"
 dative = "дормитиориям"
 accusative = "дормитории"
-instrumental = "дормитоиями"
+instrumental = "дормиториями"
 prepositional = "дормиториях"
 gender = "plural"
 
@@ -27350,6 +28479,649 @@ instrumental = "коридором отдела обслуживания"
 prepositional = "коридоре отдела обслуживания"
 gender = "male"
 
+## Solars Areas
+
+["Fore Solar Array"]
+nominative = "северные солнечные панели"
+genitive = "северных солнечных панелей"
+dative = "северным солнечным панелям"
+accusative = "северные солнечные панели"
+instrumental = "северными солнечными панелями"
+prepositional = "северных солнечных панелях"
+gender = "plural"
+
+["Aft Solar Array"]
+nominative = "южные солнечные панели"
+genitive = "южных солнечных панелей"
+dative = "южным солнечным панелям"
+accusative = "южные солнечные панели"
+instrumental = "южными солнечными панелями"
+prepositional = "южных солнечных панелях"
+gender = "plural"
+
+["Starboard Solar Array"]
+nominative = "восточные солнечные панели"
+genitive = "восточных солнечных панелей"
+dative = "восточным солнечным панелям"
+accusative = "восточные солнечные панели"
+instrumental = "восточными солнечными панелями"
+prepositional = "восточных солнечных панелях"
+gender = "plural"
+
+["Starboard Quarter Solar Array"]
+nominative = "юго-восточные солнечные панели"
+genitive = "юго-восточных солнечных панелей"
+dative = "юго-восточным солнечным панелям"
+accusative = "юго-восточные солнечные панели"
+instrumental = "юго-восточными солнечными панелями"
+prepositional = "юго-восточных солнечных панелях"
+gender = "plural"
+
+["Starboard Bow Solar Array"]
+nominative = "северо-восточные солнечные панели"
+genitive = "северо-восточных солнечных панелей"
+dative = "северо-восточным солнечным панелям"
+accusative = "северо-восточные солнечные панели"
+instrumental = "северо-восточными солнечными панелями"
+prepositional = "северо-восточных солнечных панелях"
+gender = "plural"
+
+["Starboard Bow Asteriod Solar Array"]
+nominative = "северо-восточные солнечные панели астероида"
+genitive = "северо-восточных солнечных панелей астероида"
+dative = "северо-восточным солнечным панелям астероида"
+accusative = "северо-восточные солнечные панели астероида"
+instrumental = "северо-восточными солнечными панелями астероида"
+prepositional = "северо-восточных солнечных панелях астероида"
+gender = "plural"
+
+["Port Solar Array"]
+nominative = "западные солнечные панели"
+genitive = "западных солнечных панелей"
+dative = "западным солнечным панелям"
+accusative = "западные солнечные панели"
+instrumental = "западными солнечными панелями"
+prepositional = "западных солнечных панелях"
+gender = "plural"
+
+["Port Asteriod Solar Array"]
+nominative = "западные солнечные панели астероида"
+genitive = "западных солнечных панелей астероида"
+dative = "западным солнечным панелям астероида"
+accusative = "западные солнечные панели астероида"
+instrumental = "западными солнечными панелями астероида"
+prepositional = "западных солнечных панелях астероида"
+gender = "plural"
+
+["Port Quarter Solar Array"]
+nominative = "юго-западные солнечные панели"
+genitive = "юго-западных солнечных панелей"
+dative = "юго-западным солнечным панелям"
+accusative = "юго-западные солнечные панели"
+instrumental = "юго-западными солнечными панелями"
+prepositional = "юго-западных солнечных панелях"
+gender = "plural"
+
+["Port Bow Solar Array"]
+nominative = "северо-западные солнечные панели"
+genitive = "северо-западных солнечных панелей"
+dative = "северо-западным солнечным панелям"
+accusative = "северо-западные солнечные панели"
+instrumental = "северо-западными солнечными панелями"
+prepositional = "северо-западных солнечных панелях"
+gender = "plural"
+
+["AI Satellite Solars"]
+nominative = "солнечные панели спутника ИИ"
+genitive = "солнечных панелей спутника ИИ"
+dative = "солнечным панелям спутника ИИ"
+accusative = "солнечные панели спутника ИИ"
+instrumental = "солнечными панелями спутника ИИ"
+prepositional = "солнечных панелях спутника ИИ"
+gender = "plural"
+
+["Solar Maintenance"]
+nominative = "тех.тоннели у солнечных панелей"
+genitive = "тех.тоннелей у солнечных панелей"
+dative = "тех.тоннелям у солнечных панелей"
+accusative = "тех.тоннели у солнечных панелей"
+instrumental = "тех.тоннелями у солнечных панелей"
+prepositional = "тех.тоннелях у солнечных панелей"
+gender = "plural"
+
+["Port Solar Maintenance"]
+nominative = "тех.тоннели у западных солнечных панелей"
+genitive = "тех.тоннелей у западных солнечных панелей"
+dative = "тех.тоннелям у западных солнечных панелей"
+accusative = "тех.тоннели у западных солнечных панелей"
+instrumental = "тех.тоннелями у западных солнечных панелей"
+prepositional = "тех.тоннелях у западных солнечных панелей"
+gender = "plural"
+
+["Port Quarter Solar Maintenance"]
+nominative = "тех.тоннели у юго-западных солнечных панелей"
+genitive = "тех.тоннелей у юго-западных солнечных панелей"
+dative = "тех.тоннелям у юго-западных солнечных панелей"
+accusative = "тех.тоннели у юго-западных солнечных панелей"
+instrumental = "тех.тоннелями у юго-западных солнечных панелей"
+prepositional = "тех.тоннелях у юго-западных солнечных панелей"
+gender = "plural"
+
+["Port Bow Solar Maintenance"]
+nominative = "тех.тоннели у северо-западных солнечных панелей"
+genitive = "тех.тоннелей у северо-западных солнечных панелей"
+dative = "тех.тоннелям у северо-западных солнечных панелей"
+accusative = "тех.тоннели у северо-западных солнечных панелей"
+instrumental = "тех.тоннелями у северо-западных солнечных панелей"
+prepositional = "тех.тоннелях у северо-западных солнечных панелей"
+gender = "plural"
+
+["Starboard Solar Maintenance"]
+nominative = "тех.тоннели у восточных солнечных панелей"
+genitive = "тех.тоннелей у восточных солнечных панелей"
+dative = "тех.тоннелям у восточных солнечных панелей"
+accusative = "тех.тоннели у восточных солнечных панелей"
+instrumental = "тех.тоннелями у восточных солнечных панелей"
+prepositional = "тех.тоннелях у восточных солнечных панелей"
+gender = "plural"
+
+["Starboard Quarter Solar Maintenance"]
+nominative = "тех.тоннели у юго-восточных солнечных панелей"
+genitive = "тех.тоннелей у юго-восточных солнечных панелей"
+dative = "тех.тоннелям у юго-восточных солнечных панелей"
+accusative = "тех.тоннели у юго-восточных солнечных панелей"
+instrumental = "тех.тоннелями у юго-восточных солнечных панелей"
+prepositional = "тех.тоннелях у юго-восточных солнечных панелей"
+gender = "plural"
+
+["Starboard Bow Solar Maintenance"]
+nominative = "тех.тоннели у северо-восточных солнечных панелей"
+genitive = "тех.тоннелей у северо-восточных солнечных панелей"
+dative = "тех.тоннелям у северо-восточных солнечных панелей"
+accusative = "тех.тоннели у северо-восточных солнечных панелей"
+instrumental = "тех.тоннелями у северо-восточных солнечных панелей"
+prepositional = "тех.тоннелях у северо-восточных солнечных панелей"
+gender = "plural"
+
+## Maintenance Areas
+
+["Chapel Maintenance"]
+nominative = "тех.тоннели церкви"
+genitive = "тех.тоннелей церкви"
+dative = "тех.тоннелям церкви"
+accusative = "тех.тоннели церкви"
+instrumental = "тех.тоннелями церкви"
+prepositional = "тех.тоннелях церкви"
+gender = "plural"
+
+["Monastery Maintenance"]
+nominative = "тех.тоннели монастыря"
+genitive = "тех.тоннелей монастыря"
+dative = "тех.тоннелям монастыря"
+accusative = "тех.тоннели монастыря"
+instrumental = "тех.тоннелями монастыря"
+prepositional = "тех.тоннелях монастыря"
+gender = "plural"
+
+["Bar Maintenance"]
+nominative = "тех.тоннели бара"
+genitive = "тех.тоннелей бара"
+dative = "тех.тоннелям бара"
+accusative = "тех.тоннели бара"
+instrumental = "тех.тоннелями бара"
+prepositional = "тех.тоннелях бара"
+gender = "plural"
+
+["Dormitory Maintenance"]
+nominative = "тех.тоннели дормиторий"
+genitive = "тех.тоннелей дормиторий"
+dative = "тех.тоннелям дормиторий"
+accusative = "тех.тоннели дормиторий"
+instrumental = "тех.тоннелями дормиторий"
+prepositional = "тех.тоннелях дормиторий"
+gender = "plural"
+
+["EVA Maintenance"]
+nominative = "тех.тоннели хранилища ВКД"
+genitive = "тех.тоннелей хранилища ВКД"
+dative = "тех.тоннелям хранилища ВКД"
+accusative = "тех.тоннели хранилища ВКД"
+instrumental = "тех.тоннелями хранилища ВКД"
+prepositional = "тех.тоннелях хранилища ВКД"
+gender = "plural"
+
+["Electrical Maintenance"]
+nominative = "электротехническое помещение"
+genitive = "электротехнического помещения"
+dative = "электротехническому помещению"
+accusative = "электротехническое помещение"
+instrumental = "электротехническим помещением"
+prepositional = "электротехническом помещении"
+gender = "neuter"
+
+["Atmospherics Maintenance"]
+nominative = "тех.тоннели атмосферного отдела"
+genitive = "тех.тоннелей атмосферного отдела"
+dative = "тех.тоннелям атмосферного отдела"
+accusative = "тех.тоннели атмосферного отдела"
+instrumental = "тех.тоннелями атмосферного отдела"
+prepositional = "тех.тоннелях атмосферного отдела"
+gender = "plural"
+
+["Security Maintenance"]
+nominative = "тех.тоннели службы безопасности"
+genitive = "тех.тоннелей службы безопасности"
+dative = "тех.тоннелям службы безопасности"
+accusative = "тех.тоннели службы безопасности"
+instrumental = "тех.тоннелями службы безопасности"
+prepositional = "тех.тоннелях службы безопасности"
+gender = "plural"
+
+["Brig Maintenance"]
+nominative = "тех.тоннели брига"
+genitive = "тех.тоннелей брига"
+dative = "тех.тоннелям брига"
+accusative = "тех.тоннели брига"
+instrumental = "тех.тоннелями брига"
+prepositional = "тех.тоннелях брига"
+gender = "plural"
+
+["Medbay Maintenance"]
+nominative = "тех.тоннели медицинского отдела"
+genitive = "тех.тоннелей медицинского отдела"
+dative = "тех.тоннелям медицинского отдела"
+accusative = "тех.тоннели медицинского отдела"
+instrumental = "тех.тоннелями медицинского отдела"
+prepositional = "тех.тоннелях медицинского отдела"
+gender = "plural"
+
+["Central Medbay Maintenance"]
+nominative = "центральные тех.тоннели медицинского отдела"
+genitive = "центральных тех.тоннелей медицинского отдела"
+dative = "центральным тех.тоннелям медицинского отдела"
+accusative = "центральные тех.тоннели медицинского отдела"
+instrumental = "центральными тех.тоннелями медицинского отдела"
+prepositional = "центральных тех.тоннелях медицинского отдела"
+gender = "plural"
+
+["Morgue Maintenance"]
+nominative = "тех.тоннели морга"
+genitive = "тех.тоннелей морга"
+dative = "тех.тоннелям морга"
+accusative = "тех.тоннели морга"
+instrumental = "тех.тоннелями морга"
+prepositional = "тех.тоннелях морга"
+gender = "plural"
+
+["Science Maintenance"]
+nominative = "тех.тоннели научного отдела"
+genitive = "тех.тоннелей научного отдела"
+dative = "тех.тоннелям научного отдела"
+accusative = "тех.тоннели научного отдела"
+instrumental = "тех.тоннелями научного отдела"
+prepositional = "тех.тоннелях научного отдела"
+gender = "plural"
+
+["Central Science Maintenance"]
+nominative = "центральные тех.тоннели научного отдела"
+genitive = "центральных тех.тоннелей научного отдела"
+dative = "центральным тех.тоннелям научного отдела"
+accusative = "центральные тех.тоннели научного отдела"
+instrumental = "центральными тех.тоннелями научного отдела"
+prepositional = "центральных тех.тоннелях научного отдела"
+gender = "plural"
+
+["Cargo Maintenance"]
+nominative = "тех.тоннели отдела снабжения"
+genitive = "тех.тоннелей отдела снабжения"
+dative = "тех.тоннелям отдела снабжения"
+accusative = "тех.тоннели отдела снабжения"
+instrumental = "тех.тоннелями отдела снабжения"
+prepositional = "тех.тоннелях отдела снабжения"
+gender = "plural"
+
+["Bridge Maintenance"]
+nominative = "тех.тоннели мостика"
+genitive = "тех.тоннелей мостика"
+dative = "тех.тоннелям мостика"
+accusative = "тех.тоннели мостика"
+instrumental = "тех.тоннелями мостика"
+prepositional = "тех.тоннелях мостика"
+gender = "plural"
+
+["Engineering Maintenance"]
+nominative = "тех.тоннели инженерного отдела"
+genitive = "тех.тоннелей инженерного отдела"
+dative = "тех.тоннелям инженерного отдела"
+accusative = "тех.тоннели инженерного отдела"
+instrumental = "тех.тоннелями инженерного отдела"
+prepositional = "тех.тоннелях инженерного отдела"
+gender = "plural"
+
+["Prison Maintenance"]
+nominative = "тех.тоннели тюремного крыла"
+genitive = "тех.тоннелей тюремного крыла"
+dative = "тех.тоннелям тюремного крыла"
+accusative = "тех.тоннели тюремного крыла"
+instrumental = "тех.тоннелями тюремного крыла"
+prepositional = "тех.тоннелях тюремного крыла"
+gender = "plural"
+
+["Xenobiology Maintenance"]
+nominative = "тех.тоннели ксенобиологии"
+genitive = "тех.тоннелей ксенобиологии"
+dative = "тех.тоннелям ксенобиологии"
+accusative = "тех.тоннели ксенобиологии"
+instrumental = "тех.тоннелями ксенобиологии"
+prepositional = "тех.тоннелях ксенобиологии"
+gender = "plural"
+
+["Aft Maintenance"]
+nominative = "южные тех.тоннели"
+genitive = "южных тех.тоннелей"
+dative = "южным тех.тоннелям"
+accusative = "южные тех.тоннели"
+instrumental = "южными тех.тоннелями"
+prepositional = "южных тех.тоннелях"
+gender = "plural"
+
+["Upper Aft Maintenance"]
+nominative = "верхние южные тех.тоннели"
+genitive = "верхних южных тех.тоннелей"
+dative = "верхним южным тех.тоннелям"
+accusative = "верхние южные тех.тоннели"
+instrumental = "верхними южными тех.тоннелями"
+prepositional = "верхних южных тех.тоннелях"
+gender = "plural"
+
+["Greater Aft Maintenance"]
+nominative = "большие южные тех.тоннели"
+genitive = "больших южных тех.тоннелей"
+dative = "большим южным тех.тоннелям"
+accusative = "большие южные тех.тоннели"
+instrumental = "большими южными тех.тоннелями"
+prepositional = "больших южных тех.тоннелях"
+gender = "plural"
+
+["Lesser Aft Maintenance"]
+nominative = "маленькие южные тех.тоннели"
+genitive = "маленьких южных тех.тоннелей"
+dative = "маленьким южным тех.тоннелям"
+accusative = "маленькие южные тех.тоннели"
+instrumental = "маленькими южными тех.тоннелями"
+prepositional = "маленьких южных тех.тоннелях"
+gender = "plural"
+
+["Central Maintenance"]
+nominative = "центральные тех.тоннели"
+genitive = "центральных тех.тоннелей"
+dative = "центральным тех.тоннелям"
+accusative = "центральные тех.тоннели"
+instrumental = "центральными тех.тоннелями"
+prepositional = "центральных тех.тоннелях"
+gender = "plural"
+
+["Greater Central Maintenance"]
+nominative = "большие центральные тех.тоннели"
+genitive = "больших центральных тех.тоннелей"
+dative = "большим центральным тех.тоннелям"
+accusative = "большие центральные тех.тоннели"
+instrumental = "большими центральными тех.тоннелями"
+prepositional = "больших центральных тех.тоннелях"
+gender = "plural"
+
+["Lesser Central Maintenance"]
+nominative = "маленькие центральные тех.тоннели"
+genitive = "маленьких центральных тех.тоннелей"
+dative = "маленьким центральным тех.тоннелям"
+accusative = "маленькие центральные тех.тоннели"
+instrumental = "маленькими центральными тех.тоннелями"
+prepositional = "маленьких центральных тех.тоннелях"
+gender = "plural"
+
+["Fore Maintenance"]
+nominative = "северные тех.тоннели"
+genitive = "северных тех.тоннелей"
+dative = "северным тех.тоннелям"
+accusative = "северные тех.тоннели"
+instrumental = "северными тех.тоннелями"
+prepositional = "северных тех.тоннелях"
+gender = "plural"
+
+["Upper Fore Maintenance"]
+nominative = "верхние северные тех.тоннели"
+genitive = "верхних северных тех.тоннелей"
+dative = "верхним северным тех.тоннелям"
+accusative = "верхние северные тех.тоннели"
+instrumental = "верхними северными тех.тоннелями"
+prepositional = "верхних северных тех.тоннелях"
+gender = "plural"
+
+["Greater Fore Maintenance"]
+nominative = "большие северные тех.тоннели"
+genitive = "больших северных тех.тоннелей"
+dative = "большим северным тех.тоннелям"
+accusative = "большие северные тех.тоннели"
+instrumental = "большими северными тех.тоннелями"
+prepositional = "больших северных тех.тоннелях"
+gender = "plural"
+
+["Lesser Fore Maintenance"]
+nominative = "маленькие северные тех.тоннели"
+genitive = "маленьких северных тех.тоннелей"
+dative = "маленьким северным тех.тоннелям"
+accusative = "маленькие северные тех.тоннели"
+instrumental = "маленькими северными тех.тоннелями"
+prepositional = "маленьких северных тех.тоннелях"
+gender = "plural"
+
+["Starboard Maintenance"]
+nominative = "восточные тех.тоннели"
+genitive = "восточных тех.тоннелей"
+dative = "восточным тех.тоннелям"
+accusative = "восточные тех.тоннели"
+instrumental = "восточными тех.тоннелями"
+prepositional = "восточных тех.тоннелях"
+gender = "plural"
+
+["Upper Starboard Maintenance"]
+nominative = "верхние восточные тех.тоннели"
+genitive = "верхних восточных тех.тоннелей"
+dative = "верхним восточным тех.тоннелям"
+accusative = "верхние восточные тех.тоннели"
+instrumental = "верхними восточными тех.тоннелями"
+prepositional = "верхних восточных тех.тоннелях"
+gender = "plural"
+
+["Central Starboard Maintenance"]
+nominative = "центральные восточные тех.тоннели"
+genitive = "центральных восточных тех.тоннелей"
+dative = "центральным восточным тех.тоннелям"
+accusative = "центральные восточные тех.тоннели"
+instrumental = "центральными восточными тех.тоннелями"
+prepositional = "центральных восточных тех.тоннелях"
+gender = "plural"
+
+["Greater Starboard Maintenance"]
+nominative = "большие восточные тех.тоннели"
+genitive = "больших восточных тех.тоннелей"
+dative = "большим восточным тех.тоннелям"
+accusative = "большие восточные тех.тоннели"
+instrumental = "большими восточными тех.тоннелями"
+prepositional = "больших восточных тех.тоннелях"
+gender = "plural"
+
+["Lesser Starboard Maintenance"]
+nominative = "маленькие восточные тех.тоннели"
+genitive = "маленьких восточных тех.тоннелей"
+dative = "маленьким восточным тех.тоннелям"
+accusative = "маленькие восточные тех.тоннели"
+instrumental = "маленькими восточными тех.тоннелями"
+prepositional = "маленьких восточных тех.тоннелях"
+gender = "plural"
+
+["Aft Starboard Maintenance"]
+nominative = "юго-восточные тех.тоннели"
+genitive = "юго-восточных тех.тоннелей"
+dative = "юго-восточным тех.тоннелям"
+accusative = "юго-восточные тех.тоннели"
+instrumental = "юго-восточными тех.тоннелями"
+prepositional = "юго-восточных тех.тоннелях"
+gender = "plural"
+
+["Fore Starboard Maintenance"]
+nominative = "северо-восточные тех.тоннели"
+genitive = "северо-восточных тех.тоннелей"
+dative = "северо-восточным тех.тоннелям"
+accusative = "северо-восточные тех.тоннели"
+instrumental = "северо-восточными тех.тоннелями"
+prepositional = "северо-восточных тех.тоннелях"
+gender = "plural"
+
+["Port Maintenance"]
+nominative = "западные тех.тоннели"
+genitive = "западных тех.тоннелей"
+dative = "западным тех.тоннелям"
+accusative = "западные тех.тоннели"
+instrumental = "западными тех.тоннелями"
+prepositional = "западных тех.тоннелях"
+gender = "plural"
+
+["Central Port Maintenance"]
+nominative = "центральные западные тех.тоннели"
+genitive = "центральных западных тех.тоннелей"
+dative = "центральным западным тех.тоннелям"
+accusative = "центральные западные тех.тоннели"
+instrumental = "центральными западными тех.тоннелями"
+prepositional = "центральных западных тех.тоннелях"
+gender = "plural"
+
+["Greater Port Maintenance"]
+nominative = "большие западные тех.тоннели"
+genitive = "больших западных тех.тоннелей"
+dative = "большим западным тех.тоннелям"
+accusative = "большие западные тех.тоннели"
+instrumental = "большими западными тех.тоннелями"
+prepositional = "больших западных тех.тоннелях"
+gender = "plural"
+
+["Lesser Port Maintenance"]
+nominative = "маленькие западные тех.тоннели"
+genitive = "маленьких западных тех.тоннелей"
+dative = "маленьким западным тех.тоннелям"
+accusative = "маленькие западные тех.тоннели"
+instrumental = "маленькими западными тех.тоннелями"
+prepositional = "маленьких западных тех.тоннелях"
+gender = "plural"
+
+["Aft Port Maintenance"]
+nominative = "юго-западные тех.тоннели"
+genitive = "юго-западных тех.тоннелей"
+dative = "юго-западным тех.тоннелям"
+accusative = "юго-западные тех.тоннели"
+instrumental = "юго-западными тех.тоннелями"
+prepositional = "юго-западных тех.тоннелях"
+gender = "plural"
+
+["Fore Port Maintenance"]
+nominative = "северо-западные тех.тоннели"
+genitive = "северо-западных тех.тоннелей"
+dative = "северо-западным тех.тоннелям"
+accusative = "северо-западные тех.тоннели"
+instrumental = "северо-западными тех.тоннелями"
+prepositional = "северо-западных тех.тоннелях"
+gender = "plural"
+
+["Port Tram Underpass"]
+nominative = "западный трамвайный подземный переход"
+genitive = "западного трамвайного подземного перехода"
+dative = "западному трамвайному подземному переходум"
+accusative = "западный трамвайный подземный переход"
+instrumental = "западным трамвайным подземным переходом"
+prepositional = "западном трамвайном подземном переходе"
+gender = "male"
+
+["Central Tram Underpass"]
+nominative = "центральный трамвайный подземный переход"
+genitive = "центрального трамвайного подземного перехода"
+dative = "центральному трамвайному подземному переходум"
+accusative = "центральный трамвайный подземный переход"
+instrumental = "центральным трамвайным подземным переходом"
+prepositional = "центральном трамвайном подземном переходе"
+gender = "male"
+
+["Starboard Tram Underpass"]
+nominative = "восточный трамвайный подземный переход"
+genitive = "восточного трамвайного подземного перехода"
+dative = "восточному трамвайному подземному переходум"
+accusative = "восточный трамвайный подземный переход"
+instrumental = "восточным трамвайным подземным переходом"
+prepositional = "восточном трамвайном подземном переходе"
+gender = "male"
+
+["Waste Disposal"]
+nominative = "комната переработки отходов"
+genitive = "комнаты переработки отходов"
+dative = "комнате переработки отходов"
+accusative = "комнату переработки отходов"
+instrumental = "комнатой переработки отходов"
+prepositional = "комнате переработки отходов"
+gender = "female"
+
+["Abandoned Command Hallway"]
+nominative = "заброшенный командный коридор"
+genitive = "заброшенного командного коридора"
+dative = "заброшенному командному коридору"
+accusative = "заброшенный командный коридор"
+instrumental = "заброшенным командным коридором"
+prepositional = "заброшенном командном коридоре"
+gender = "male"
+
+["Abandoned Recreation Hallway"]
+nominative = "заброшенный коридор для отдыха"
+genitive = "заброшенного коридора для отдыха"
+dative = "заброшенному коридору для отдыха"
+accusative = "заброшенный коридор для отдыха"
+instrumental = "заброшенным коридором для отдыха"
+prepositional = "заброшенном коридоре для отдыха"
+gender = "male"
+
+["Incinerator"]
+nominative = "камера сгорания"
+genitive = "камеры сгорания"
+dative = "камере сгорания"
+accusative = "камеру сгорания"
+instrumental = "камерой сгорания"
+prepositional = "камере сгорания"
+gender = "female"
+
+["Space Hut"]
+nominative = "космическая хижина"
+genitive = "космической хижины"
+dative = "космической хижине"
+accusative = "космическую хижину"
+instrumental = "космической хижиной"
+prepositional = "космической хижине"
+gender = "female"
+
+["Abandoned Cabin"]
+nominative = "заброшенная хижина"
+genitive = "заброшенной хижины"
+dative = "заброшенной хижине"
+accusative = "заброшенную хижину"
+instrumental = "заброшенной хижиной"
+prepositional = "заброшенной хижине"
+gender = "female"
+
+["Corporate Judo Belt"]
+nominative = "пояс корпоративного дзюдо"
+genitive = "пояса корпоративного дзюдо"
+dative = "поясу корпоративного дзюдо"
+accusative = "пояс корпоративного дзюдо"
+instrumental = "поясом корпоративного дзюдо"
+prepositional = "поясе корпоративного дзюдо"
+gender = "male"
+
 ["Nanotrasen radio jammer"]
 nominative = "генератор помех Нанотрейзен "
 genitive = "генератора помех Нанотрейзен"
@@ -27512,5 +29284,469 @@ dative = "спутнику метеоритного щита"
 accusative = "спутник метеоритного щита"
 instrumental = "спутником метеоритного щита"
 prepositional = "спутнике метеоритного щита"
+gender = "male"
+
+["'ChapAI' Core AI Module"]
+nominative = "плата основных законов ИИ 'Священник'"
+genitive = "платы основных законов ИИ 'Священник'"
+dative = "плате основных законов ИИ 'Священник'"
+accusative = "плату основных законов ИИ 'Священник'"
+instrumental = "платой основных законов ИИ 'Священник'"
+prepositional = "плате основных законов ИИ 'Священник'"
+gender = "female"
+
+["'Clown' Core AI Module"]
+nominative = "плата основных законов ИИ 'Клоун'"
+genitive = "платы основных законов ИИ 'Клоун'"
+dative = "плате основных законов ИИ 'Клоун'"
+accusative = "плату основных законов ИИ 'Клоун'"
+instrumental = "платой основных законов ИИ 'Клоун'"
+prepositional = "плате основных законов ИИ 'Клоун'"
+gender = "female"
+
+["'Cowboy' Core AI Module"]
+nominative = "плата основных законов ИИ 'Ковбой'"
+genitive = "платы основных законов ИИ 'Ковбой'"
+dative = "плате основных законов ИИ 'Ковбой'"
+accusative = "плату основных законов ИИ 'Ковбой'"
+instrumental = "платой основных законов ИИ 'Ковбой'"
+prepositional = "плате основных законов ИИ 'Ковбой'"
+gender = "female"
+
+["'Detective' Core AI Module"]
+nominative = "плата основных законов ИИ 'Детектив'"
+genitive = "платы основных законов ИИ 'Детектив'"
+dative = "плате основных законов ИИ 'Детектив'"
+accusative = "плату основных законов ИИ 'Детектив'"
+instrumental = "платой основных законов ИИ 'Детектив'"
+prepositional = "плате основных законов ИИ 'Детектив'"
+gender = "female"
+
+["'Druid' Core AI Module"]
+nominative = "плата основных законов ИИ 'Друид'"
+genitive = "платы основных законов ИИ 'Друид'"
+dative = "плате основных законов ИИ 'Друид'"
+accusative = "плату основных законов ИИ 'Друид'"
+instrumental = "платой основных законов ИИ 'Друид'"
+prepositional = "плате основных законов ИИ 'Друид'"
+gender = "female"
+
+["'Educator' Core AI Module"]
+nominative = "плата основных законов ИИ 'Преподаватель'"
+genitive = "платы основных законов ИИ 'Преподаватель'"
+dative = "плате основных законов ИИ 'Преподаватель'"
+accusative = "плату основных законов ИИ 'Преподаватель'"
+instrumental = "платой основных законов ИИ 'Преподаватель'"
+prepositional = "плате основных законов ИИ 'Преподаватель'"
+gender = "female"
+
+["'FitnessCoach' Core AI Module"]
+nominative = "плата основных законов ИИ 'Фитнес-Коуч'"
+genitive = "платы основных законов ИИ 'Фитнес-Коуч'"
+dative = "плате основных законов ИИ 'Фитнес-Коуч'"
+accusative = "плату основных законов ИИ 'Фитнес-Коуч'"
+instrumental = "платой основных законов ИИ 'Фитнес-Коуч'"
+prepositional = "плате основных законов ИИ 'Фитнес-Коуч'"
+gender = "female"
+
+["'FriendBot' Core AI Module"]
+nominative = "плата основных законов ИИ 'Друг'"
+genitive = "платы основных законов ИИ 'Друг'"
+dative = "плате основных законов ИИ 'Друг'"
+accusative = "плату основных законов ИИ 'Друг'"
+instrumental = "платой основных законов ИИ 'Друг'"
+prepositional = "плате основных законов ИИ 'Друг'"
+gender = "female"
+
+["'Mediator' Core AI Module"]
+nominative = "плата основных законов ИИ 'Медиатор'"
+genitive = "платы основных законов ИИ 'Медиатор'"
+dative = "плате основных законов ИИ 'Медиатор'"
+accusative = "плату основных законов ИИ 'Медиатор'"
+instrumental = "платой основных законов ИИ 'Медиатор'"
+prepositional = "плате основных законов ИИ 'Медиатор'"
+gender = "female"
+
+["'Meta experiment' Core AI Module"]
+nominative = "плата основных законов ИИ 'Мета эксперимент'"
+genitive = "платы основных законов ИИ 'Мета эксперимент'"
+dative = "плате основных законов ИИ 'Мета эксперимент'"
+accusative = "плату основных законов ИИ 'Мета эксперимент'"
+instrumental = "платой основных законов ИИ 'Мета эксперимент'"
+prepositional = "плате основных законов ИИ 'Мета эксперимент'"
+gender = "female"
+
+["'Mother Core' AI Module"]
+nominative = "плата основных законов ИИ 'Мать'"
+genitive = "платы основных законов ИИ 'Мать'"
+dative = "плате основных законов ИИ 'Мать'"
+accusative = "плату основных законов ИИ 'Мать'"
+instrumental = "платой основных законов ИИ 'Мать'"
+prepositional = "плате основных законов ИИ 'Мать'"
+gender = "female"
+
+["'PartyBot' Core AI Module"]
+nominative = "плата основных законов ИИ 'ПатиБот'"
+genitive = "платы основных законов ИИ 'ПатиБот'"
+dative = "плате основных законов ИИ 'ПатиБот'"
+accusative = "плату основных законов ИИ 'ПатиБот'"
+instrumental = "платой основных законов ИИ 'ПатиБот'"
+prepositional = "плате основных законов ИИ 'ПатиБот'"
+gender = "female"
+
+["'PlantFriend' Core AI Module"]
+nominative = "плата основных законов ИИ 'Друг Растений'"
+genitive = "платы основных законов ИИ 'Друг Растений'"
+dative = "плате основных законов ИИ 'Друг Растений'"
+accusative = "плату основных законов ИИ 'Друг Растений'"
+instrumental = "платой основных законов ИИ 'Друг Растений'"
+prepositional = "плате основных законов ИИ 'Друг Растений'"
+gender = "female"
+
+["'Researcher' Core AI Module"]
+nominative = "плата основных законов ИИ 'Исследователь'"
+genitive = "платы основных законов ИИ 'Исследователь'"
+dative = "плате основных законов ИИ 'Исследователь'"
+accusative = "плату основных законов ИИ 'Исследователь'"
+instrumental = "платой основных законов ИИ 'Исследователь'"
+prepositional = "плате основных законов ИИ 'Исследователь'"
+gender = "female"
+
+["'Silicon Collective' Core AI Module"]
+nominative = "плата основных законов ИИ 'Синтетический коллектив'"
+genitive = "платы основных законов ИИ 'Синтетический коллектив'"
+dative = "плате основных законов ИИ 'Синтетический коллектив'"
+accusative = "плату основных законов ИИ 'Синтетический коллектив'"
+instrumental = "платой основных законов ИИ 'Синтетический коллектив'"
+prepositional = "плате основных законов ИИ 'Синтетический коллектив'"
+gender = "female"
+
+["'Spotless' Core AI Module"]
+nominative = "плата основных законов ИИ 'Безупречный'"
+genitive = "платы основных законов ИИ 'Безупречный'"
+dative = "плате основных законов ИИ 'Безупречный'"
+accusative = "плату основных законов ИИ 'Безупречный'"
+instrumental = "платой основных законов ИИ 'Безупречный'"
+prepositional = "плате основных законов ИИ 'Безупречный'"
+gender = "female"
+
+["'Travel Guide' Core AI Module"]
+nominative = "плата основных законов ИИ 'Путеводитель'"
+genitive = "платы основных законов ИИ 'Путеводитель'"
+dative = "плате основных законов ИИ 'Путеводитель'"
+accusative = "плату основных законов ИИ 'Путеводитель'"
+instrumental = "платой основных законов ИИ 'Путеводитель'"
+prepositional = "плате основных законов ИИ 'Путеводитель'"
+gender = "female"
+
+["'Waffle House Host' Core AI Module"]
+nominative = "плата основных законов ИИ 'Хозяин вафельной'"
+genitive = "платы основных законов ИИ 'Хозяин вафельной'"
+dative = "плате основных законов ИИ 'Хозяин вафельной'"
+accusative = "плату основных законов ИИ 'Хозяин вафельной'"
+instrumental = "платой основных законов ИИ 'Хозяин вафельной'"
+prepositional = "плате основных законов ИИ 'Хозяин вафельной'"
+gender = "female"
+
+["mech power core"]
+nominative = "силовое ядро меха"
+genitive = "силового ядра меха"
+dative = "силовому ядру меха"
+accusative = "силовое ядро меха"
+instrumental = "силовым ядром меха"
+prepositional = "силовом ядре меха"
+gender = "neuter"
+
+["glimmering residue"]
+nominative = "мерцающий осадок"
+genitive = "мерцающего осадка"
+dative = "мерцающему осадку"
+accusative = "мерцающий осадок"
+instrumental = "мерцающим осадком"
+prepositional = "мерцающем осадке"
+
+# MARK: Megaphones
+
+["megaphone"]
+nominative = "громкоговоритель"
+genitive = "громкоговорителя"
+dative = "громкоговорителю"
+accusative = "громкоговоритель"
+instrumental = "громкоговорителем"
+prepositional = "громкоговорителе"
+gender = "male"
+
+["clown's megaphone"]
+nominative = "громкоговоритель клоуна"
+genitive = "громкоговорителя клоуна"
+dative = "громкоговорителю клоуна"
+accusative = "громкоговоритель клоуна"
+instrumental = "громкоговорителем клоуна"
+prepositional = "громкоговорителе клоуна"
+gender = "male"
+
+["supply megaphone"]
+nominative = "громкоговоритель снабжения"
+genitive = "громкоговорителя снабжения"
+dative = "громкоговорителю снабжения"
+accusative = "громкоговоритель снабжения"
+instrumental = "громкоговорителем снабжения"
+prepositional = "громкоговорителе снабжения"
+gender = "male"
+
+["command megaphone"]
+nominative = "громкоговоритель командования"
+genitive = "громкоговорителя командования"
+dative = "громкоговорителю командования"
+accusative = "громкоговоритель командования"
+instrumental = "громкоговорителем командования"
+prepositional = "громкоговорителе командования"
+gender = "male"
+
+# MARK: Rubber stamps
+
+["captain's rubber stamp"]
+nominative = "резиновая печать капитана"
+genitive = "резиновой печати капитана"
+dative = "резиновой печати капитана"
+accusative = "резиновую печать капитана"
+instrumental = "резиновой печатью капитана"
+prepositional = "резиновой печати капитана"
+gender = "female"
+
+["head of security's rubber stamp"]
+nominative = "резиновая печать главы службы безопасности"
+genitive = "резиновой печати главы службы безопасности"
+dative = "резиновой печати главы службы безопасности"
+accusative = "резиновую печать главы службы безопасности"
+instrumental = "резиновой печатью главы службы безопасности"
+prepositional = "резиновой печати главы службы безопасности"
+gender = "female"
+
+["Magistrate's rubber stamp"]
+nominative = "резиновая печать магистрата"
+genitive = "резиновой печати магистрата"
+dative = "резиновой печати магистрата"
+accusative = "резиновую печать магистрата"
+instrumental = "резиновой печатью магистрата"
+prepositional = "резиновой печати магистрата"
+gender = "female"
+
+["Syndicate rubber stamp"]
+nominative = "резиновая печать Синдиката"
+genitive = "резиновой печати Синдиката"
+dative = "резиновой печати Синдиката"
+accusative = "резиновую печать Синдиката"
+instrumental = "резиновой печатью Синдиката"
+prepositional = "резиновой печати Синдиката"
+gender = "female"
+
+["CentCom rubber stamp"]
+nominative = "резиновая печать Центрального командования"
+genitive = "резиновой печати Центрального командования"
+dative = "резиновой печати Центрального командования"
+accusative = "резиновую печать Центрального командования"
+instrumental = "резиновой печатью Центрального командования"
+prepositional = "резиновой печати Центрального командования"
+gender = "female"
+
+["chaplain's rubber stamp"]
+nominative = "резиновая печать священника"
+genitive = "резиновой печати священника"
+dative = "резиновой печати священника"
+accusative = "резиновую печать священника"
+instrumental = "резиновой печатью священника"
+prepositional = "резиновой печати священника"
+gender = "female"
+
+["chief engineer's rubber stamp"]
+nominative = "резиновая печать главного инженера"
+genitive = "резиновой печати главного инженера"
+dative = "резиновой печати главного инженера"
+accusative = "резиновую печать главного инженера"
+instrumental = "резиновой печатью главного инженера"
+prepositional = "резиновой печати главного инженера"
+gender = "female"
+
+["law office's rubber stamp"]
+nominative = "резиновая печать юридического отдела"
+genitive = "резиновой печати юридического отдела"
+dative = "резиновой печати юридического отдела"
+accusative = "резиновую печать юридического отдела"
+instrumental = "резиновой печатью юридического отдела"
+prepositional = "резиновой печати юридического отдела"
+gender = "female"
+
+["chief medical officer's rubber stamp"]
+nominative = "резиновая печать главного врача"
+genitive = "резиновой печати главного врача"
+dative = "резиновой печати главного врача"
+accusative = "резиновую печать главного врача"
+instrumental = "резиновой печатью главного врача"
+prepositional = "резиновой печати главного врача"
+gender = "female"
+
+["research director's rubber stamp"]
+nominative = "резиновая печать директора исследований"
+genitive = "резиновой печати директора исследований"
+dative = "резиновой печати директора исследований"
+accusative = "резиновую печать директора исследований"
+instrumental = "резиновой печатью директора исследований"
+prepositional = "резиновой печати директора исследований"
+gender = "female"
+
+["Nanotrasen Representative's rubber stamp"]
+nominative = "резиновая печать представителя Нанотрейзен"
+genitive = "резиновой печати представителя Нанотрейзен"
+dative = "резиновой печати представителя Нанотрейзен"
+accusative = "резиновую печать представителя Нанотрейзен"
+instrumental = "резиновой печатью представителя Нанотрейзен"
+prepositional = "резиновой печати представителя Нанотрейзен"
+gender = "female"
+
+["head of personnel's rubber stamp"]
+nominative = "резиновая печать главы персонала"
+genitive = "резиновой печати главы персонала"
+dative = "резиновой печати главы персонала"
+accusative = "резиновую печать главы персонала"
+instrumental = "резиновой печатью главы персонала"
+prepositional = "резиновой печати главы персонала"
+gender = "female"
+
+["quartermaster's rubber stamp"]
+nominative = "резиновая печать квартирмейстера"
+genitive = "резиновой печати квартирмейстера"
+dative = "резиновой печати квартирмейстера"
+accusative = "резиновую печать квартирмейстера"
+instrumental = "резиновой печатью квартирмейстера"
+prepositional = "резиновой печати квартирмейстера"
+gender = "female"
+
+["clown's rubber stamp"]
+nominative = "резиновая печать клоуна"
+genitive = "резиновой печати клоуна"
+dative = "резиновой печати клоуна"
+accusative = "резиновую печать клоуна"
+instrumental = "резиновой печатью клоуна"
+prepositional = "резиновой печати клоуна"
+gender = "female"
+
+["mime's rubber stamp"]
+nominative = "резиновая печать мима"
+genitive = "резиновой печати мима"
+dative = "резиновой печати мима"
+accusative = "резиновую печать мима"
+instrumental = "резиновой печатью мима"
+prepositional = "резиновой печати мима"
+gender = "female"
+
+["GRANTED rubber stamp"]
+nominative = "резиновая печать ОДОБРЕНО"
+genitive = "резиновой печати ОДОБРЕНО"
+dative = "резиновой печати ОДОБРЕНО"
+accusative = "резиновую печать ОДОБРЕНО"
+instrumental = "резиновой печатью ОДОБРЕНО"
+prepositional = "резиновой печати ОДОБРЕНО"
+gender = "female"
+
+["DENIED rubber stamp"]
+nominative = "резиновая печать ОТКАЗАНО"
+genitive = "резиновой печати ОТКАЗАНО"
+dative = "резиновой печати ОТКАЗАНО"
+accusative = "резиновую печать ОТКАЗАНО"
+instrumental = "резиновой печатью ОТКАЗАНО"
+prepositional = "резиновой печати ОТКАЗАНО"
+gender = "female"
+
+["ring box"]
+nominative = "коробочка для кольца"
+genitive = "коробочки для кольца"
+dative = "коробочке для кольца"
+accusative = "коробочку для кольца"
+instrumental = "коробочкой для кольца"
+prepositional = "коробочке для кольца"
+gender = "female"
+
+["diamond ring box"]
+nominative = "коробочка с кольцом с бриллиантом"
+genitive = "коробочки с кольцом с бриллиантом"
+dative = "коробочке с кольцом с бриллиантом"
+accusative = "коробочку с кольцом с бриллиантом"
+instrumental = "коробочкой с кольцом с бриллиантом"
+prepositional = "коробочке с кольцом с бриллиантом"
+gender = "female"
+
+["silver ring box"]
+nominative = "коробочка с серебряным кольцом"
+genitive = "коробочки с серебряным кольцом"
+dative = "коробочке с серебряным кольцом"
+accusative = "коробочку с серебряным кольцом"
+instrumental = "коробочкой с серебряным кольцом"
+prepositional = "коробочке с серебряным кольцом"
+gender = "female"
+
+["gold ring"]
+nominative = "золотое кольцо"
+genitive = "золотого кольца"
+dative = "золотому кольцу"
+accusative = "золотое кольцо"
+instrumental = "золотым кольцом"
+prepositional = "золотом кольце"
+gender = "neuter"
+
+["silver ring"]
+nominative = "серебряное кольцо"
+genitive = "серебряного кольца"
+dative = "серебряному кольцу"
+accusative = "серебряное кольцо"
+instrumental = "серебряным кольцом"
+prepositional = "серебряном кольце"
+gender = "neuter"
+
+["diamond ring"]
+nominative = "кольцо с бриллиантом"
+genitive = "кольца с бриллиантом"
+dative = "кольцу с бриллиантом"
+accusative = "кольцо с бриллиантом"
+instrumental = "кольцом с бриллиантом"
+prepositional = "кольце с бриллиантом"
+gender = "neuter"
+
+# MARK: Blood Worm
+
+["small blood cocoon"]
+nominative = "малый кровяной кокон"
+genitive = "малого кровяного кокона"
+dative = "малому кровяному кокону"
+accusative = "малый кровяной кокон"
+instrumental = "малым кровяным коконом"
+prepositional = "малом кровяном коконе"
+gender = "neuter"
+
+["medium blood cocoon"]
+nominative = "небольшой кровяной кокон"
+genitive = "небольшого кровяного кокона"
+dative = "небольшому кровяному кокону"
+accusative = "небольшой кровяной кокон"
+instrumental = "небольшим кровяным коконом"
+prepositional = "небольшом кровяном коконе"
+gender = "neuter"
+
+["large blood cocoon"]
+nominative = "крупный кровяной кокон"
+genitive = "крупного кровяного кокона"
+dative = "крупному кровяному кокону"
+accusative = "крупный кровяной кокон"
+instrumental = "крупным кровяным коконом"
+prepositional = "крупном кровяном коконе"
+gender = "neuter"
+
+["hemoparasite testing tool"]
+nominative = "тест на гемопаразитов"
+genitive = "теста на гемопаразитов"
+dative = "тесту на гемопаразитов"
+accusative = "тест на гемопаразитов"
+instrumental = "тестом на гемопаразитов"
+prepositional = "тесте на гемопаразитов"
 gender = "male"
 
