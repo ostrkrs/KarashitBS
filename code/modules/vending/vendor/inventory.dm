@@ -189,7 +189,7 @@
 			return
 
 	if(last_shopper != REF(user) || purchase_message_cooldown < world.time)
-		var/vend_response = vend_reply || "Thank you for shopping with [src]!"
+		var/vend_response = vend_reply || "Благодарим за использование [replacetext(src.name, "\improper ", "")]!"
 		speak(vend_response)
 		purchase_message_cooldown = world.time + 5 SECONDS
 		//This is not the best practice, but it's safe enough here since the chances of two people using a machine with the same ref in 5 seconds is fuck low
@@ -238,6 +238,8 @@
 
 	on_dispense(vended_item, dispense_returned)
 	use_energy(active_power_usage)
+
+	SEND_SIGNAL(src, COMSIG_VENDING_DISPENSED, vended_item)
 
 	return vended_item
 

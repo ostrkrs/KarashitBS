@@ -15,15 +15,17 @@ Format:
 	webmap_url (link to the a webmap to see the map in the user's browser)
 endmap
 
+# When adding or removing maps be sure to also add/remove from ci_config_maps.txt
+
 # Production-level maps.
 
 map deltastation
-	minplayers 50
+	minplayers 25
 	votable
 endmap
 
 map icebox
-	minplayers 25
+	minplayers 40
 	votable
 endmap
 
@@ -40,6 +42,11 @@ map tramstation
 	votable
 endmap
 
+map nebulastation
+	minplayers 35
+	votable
+endmap
+
 map cyberiad
 	minplayers 50
 	votable
@@ -47,6 +54,11 @@ endmap
 
 map kilostation
 	maxplayers 40
+	votable
+endmap
+
+map wawastation
+    minplayers 50
 	votable
 endmap
 
@@ -59,4 +71,7 @@ map multiz_debug
 endmap
 
 map runtimestation
+endmap
+
+map runtimestation_minimal
 endmap
